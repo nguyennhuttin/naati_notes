@@ -52,6 +52,24 @@ Typical scenarios: parent-teacher interview, school enrolment, child bullying, l
 | career counsellor | chuyên viên hướng nghiệp |
 | childcare / before & after school care | nhà trẻ / dịch vụ giữ trẻ trước và sau giờ học |
 | Child Care Subsidy | trợ cấp chi phí giữ trẻ |
+| English proficiency test | bài kiểm tra trình độ tiếng Anh |
+| language support | hỗ trợ ngôn ngữ |
+| basic literacy skills | kỹ năng đọc viết cơ bản |
+| proof of residential address | giấy tờ chứng minh địa chỉ cư trú |
+| utility bill | hóa đơn điện / nước / ga |
+| immunisation records | hồ sơ chích ngừa / tiêm chủng |
+| visa status | tình trạng thị thực |
+| fall/lag behind | thua kém / tụt lại phía sau |
+| shy / speak up in class | nhút nhát / phát biểu trong lớp |
+| put your hand up | giơ tay (phát biểu) |
+| packed lunch | đồ ăn trưa mang theo |
+| pay in instalments | trả góp / trả làm nhiều lần |
+| financial assistance (from the school) | trợ giúp tài chính |
+| homework club | câu lạc bộ làm bài tập |
+| grief | nỗi đau mất người thân |
+| recognition of prior learning (RPL) | công nhận kinh nghiệm học tập trước đây |
+| information session | buổi thông tin |
+| site supervisor | giám sát công trường |
 
 ## Key phrases (rapid drill)
 
@@ -71,65 +89,165 @@ Typical scenarios: parent-teacher interview, school enrolment, child bullying, l
 
 ## Dialogue 1 – Parent-teacher interview (Teacher)
 
-> *You will hear a dialogue between a Year 8 teacher and a Vietnamese-speaking mother.*
+| Domain | Education |
+|---|---|
+| English speaker | Mr James Reid, Year 8 teacher (male) |
+| Vietnamese speaker | Mrs Lam, mother (female) |
+| Scenario | Mrs Lam attends a parent-teacher interview about her son Kevin, whose results have dropped this term. |
 
-**[1] Teacher:** Good afternoon, Mrs Lam. Thanks for coming to the parent-teacher interview. I wanted to talk to you about Kevin. He's a bright student, but his results have dropped quite a lot this term.
-→ *Chào chị Lâm. Cảm ơn chị đã đến buổi họp phụ huynh. Tôi muốn nói chuyện với chị về Kevin. Cháu là học sinh sáng dạ, nhưng kết quả học tập của cháu đã giảm khá nhiều trong học kỳ này.*
+*The dialogue begins now.*
 
-**[2] Mother:** Dạ, tôi cũng thấy bảng điểm của cháu thấp hơn trước. Ở nhà cháu nói là bài vở dễ, không có bài tập gì. Tôi đi làm ca tối nên không kiểm tra được.
-→ *Yes, I also noticed his report was lower than before. At home he says the schoolwork is easy and he doesn't have any homework. I work evening shifts, so I can't check on him.*
+**[1] Teacher — EN, 30 words:** Good afternoon, Mrs Lam. I'm James Reid, Kevin's Year 8 teacher. Thanks for coming in. Kevin is a bright student, but his results have dropped quite a lot this term.
+→ *Chào chị Lâm. Tôi là James Reid, giáo viên lớp 8 của Kevin. Cảm ơn chị đã đến. Kevin là học sinh sáng dạ, nhưng kết quả học tập của cháu giảm khá nhiều trong học kỳ này.*
 
-**[3] Teacher:** Actually, Kevin hasn't submitted his last three assignments, including a science project worth twenty per cent of his final mark. He also seems tired and distracted in class, especially in the mornings.
-→ *Thật ra, Kevin chưa nộp ba bài tập lớn gần đây nhất, trong đó có một dự án khoa học chiếm hai mươi phần trăm điểm tổng kết. Cháu cũng có vẻ mệt mỏi và không tập trung trong lớp, nhất là vào buổi sáng.*
+**[2] Mother — VI, 31 words:** Dạ, chào ông. Tôi cũng thấy học bạ của cháu kém hơn trước. Ở nhà cháu nói bài vở dễ, không có bài tập gì hết. Tôi đi làm ca tối nên không kiểm tra được.
+→ *Hello. I also noticed his report was worse than before. At home he says the work is easy and he has no homework. I work evening shifts, so I can't check.*
 
-**[4] Mother:** Trời ơi, tôi không biết chuyện này. Chắc là cháu thức khuya chơi game. Có hôm tôi đi làm về lúc mười hai giờ đêm mà vẫn thấy đèn phòng cháu còn sáng.
-→ *Oh my goodness, I didn't know about this. He's probably staying up late playing games. Some nights I come home from work at midnight and his bedroom light is still on.*
+**[3] Teacher — EN, 27 words:** Actually, Kevin hasn't handed in his last three assignments, including a science project worth twenty per cent of his final mark. He also seems tired in class.
+→ *Thật ra, Kevin chưa nộp ba bài tập lớn gần đây nhất, trong đó có một dự án khoa học chiếm hai mươi phần trăm điểm tổng kết. Cháu cũng có vẻ mệt mỏi trong lớp.*
 
-**[5] Teacher:** That's quite common at this age. I'd suggest setting a rule that devices stay in the living room after ten p.m. Also, Kevin can still submit the science project if he hands it in by next Friday.
-→ *Điều đó khá phổ biến ở lứa tuổi này. Tôi đề nghị chị đặt ra quy định là sau mười giờ tối các thiết bị điện tử phải để ở phòng khách. Ngoài ra, Kevin vẫn có thể nộp dự án khoa học nếu cháu nộp trước thứ Sáu tuần sau.*
+**[4] Mother — VI, 30 words:** Trời ơi, vậy mà tôi không hay biết gì hết. Chắc là cháu thức khuya chơi game. Có bữa nửa đêm tôi đi làm về mà đèn phòng cháu vẫn còn sáng.
+→ *Oh my goodness, I had no idea. He's probably staying up late playing games. Some nights I come home from work at midnight and his bedroom light is still on.*
 
-**[6] Mother:** Dạ, tôi sẽ nói chuyện với cháu. Nhưng tôi sợ cháu không nghe lời. Từ khi ba cháu mất năm ngoái, cháu ít nói chuyện với tôi lắm, hay cáu gắt.
-→ *I'll talk to him. But I'm afraid he won't listen. Since his father passed away last year, he rarely talks to me and is often irritable.*
+**[5] Teacher — EN, 33 words:** That's quite common at this age. You could try a rule that phones and laptops stay in the living room after ten. And he can still hand in the project by next Friday.
+→ *Chuyện đó khá phổ biến ở lứa tuổi này. Chị có thể thử đặt quy định là sau mười giờ, điện thoại và máy tính xách tay phải để ở phòng khách. Và cháu vẫn có thể nộp dự án trước thứ Sáu tuần sau.*
 
-**[7] Teacher:** I'm very sorry for your loss; I wasn't aware of that. Grief can really affect a child's behaviour and learning. Would you be comfortable with Kevin seeing our school counsellor? It's free and confidential.
-→ *Tôi rất tiếc về sự mất mát của gia đình chị; tôi không biết chuyện đó. Nỗi đau mất người thân có thể ảnh hưởng nhiều đến hành vi và việc học của trẻ. Chị có đồng ý cho Kevin gặp chuyên viên tư vấn của trường không? Dịch vụ này miễn phí và được bảo mật.*
+**[6] Mother — VI, 26 words:** Dạ, tôi sẽ nói chuyện với cháu. Nhưng từ khi ba cháu mất năm ngoái, cháu ít nói chuyện với tôi lắm, hay cáu gắt. Tôi sợ cháu không chịu nghe lời.
+→ *I'll talk to him. But since his father passed away last year, he hardly talks to me and is often irritable. I'm afraid he won't listen.*
 
-**[8] Mother:** Dạ, nếu có người nói chuyện với cháu thì tốt quá. Ở nhà tôi không biết phải bắt đầu thế nào.
-→ *Yes, if there's someone to talk to him, that would be great. At home I don't know how to start.*
+**[7] Teacher — EN, 29 words:** I'm very sorry for your loss. I didn't know. Grief can really affect a child's behaviour and learning. Would you be happy for Kevin to see our school counsellor?
+→ *Tôi rất tiếc về sự mất mát của gia đình chị. Tôi không hề biết chuyện đó. Nỗi đau mất người thân có thể ảnh hưởng nhiều đến hành vi và việc học của trẻ. Chị có đồng ý cho Kevin gặp chuyên viên tư vấn học đường của trường không?*
 
-**[9] Teacher:** I'll arrange it this week. The school also has a free homework club on Tuesdays and Thursdays until four thirty, which could help Kevin catch up. I'll email you an update in two weeks.
-→ *Tôi sẽ sắp xếp trong tuần này. Trường cũng có câu lạc bộ làm bài tập miễn phí vào thứ Ba và thứ Năm đến bốn giờ rưỡi, có thể giúp Kevin theo kịp bài vở. Hai tuần nữa tôi sẽ gửi email cập nhật cho chị.*
+**[8] Mother — VI, 21 words:** Dạ, có người nói chuyện với cháu thì tốt quá. Ở nhà tôi không biết phải mở lời sao.
+→ *Yes, it would be great if someone could talk to him. At home I don't know how to bring it up.*
+
+**[9] Teacher — EN, 9 words:** It's free and confidential. I'll arrange it this week.
+→ *Dịch vụ này miễn phí và được bảo mật. Tôi sẽ sắp xếp trong tuần này.*
+
+**[10] Mother — VI, 26 words:** Cảm ơn ông. Còn mấy bài cháu bị trễ, có cách nào giúp cháu theo kịp không? Tôi không có tiền cho cháu đi học thêm.
+→ *Thank you. As for the work he's behind on, is there any way to help him catch up? I can't afford to send him to tutoring.*
+
+**[11] Teacher — EN, 27 words:** Yes, the school runs a free homework club on Tuesdays and Thursdays until four thirty. Teachers are there to help, so it could be perfect for Kevin.
+→ *Có, trường có câu lạc bộ làm bài tập miễn phí vào thứ Ba và thứ Năm đến bốn giờ rưỡi. Có giáo viên ở đó giúp đỡ, nên có thể rất hợp với Kevin.*
+
+**[12] Mother — VI, 22 words:** Vậy thì hay quá. Tôi sẽ dặn cháu ở lại học. Có gì ông cứ gọi điện cho tôi nha, buổi sáng tôi ở nhà.
+→ *That's great. I'll tell him to stay back for it. If anything comes up, please call me; I'm home in the mornings.*
+
+**[13] Teacher — EN, 10 words:** Will do. I'll email you an update in two weeks.
+→ *Được chị. Hai tuần nữa tôi sẽ email cho chị biết tình hình.*
+
+**[14] Mother — VI, 5 words:** Dạ, cảm ơn ông nhiều. Chào ông.
+→ *Thank you very much. Goodbye.*
+
+*End of dialogue — 14 segments · EN 165 + VI 161 = 326 words*
 
 ## Dialogue 2 – TAFE enrolment (Course Advisor)
 
-> *You will hear a dialogue between a TAFE course advisor and a Vietnamese man who wants to retrain.*
+| Domain | Education |
+|---|---|
+| English speaker | Ms Priya Patel, TAFE course advisor (female) |
+| Vietnamese speaker | Mr Dinh, prospective student (male) |
+| Scenario | Mr Dinh, a 45-year-old construction worker with a back injury, meets a TAFE course advisor about retraining for a new career. |
 
-**[1] Advisor:** Hi, Mr Dinh. Welcome to TAFE. You mentioned you're interested in changing careers. What kind of work have you been doing, and what are you hoping to study?
-→ *Chào anh Đinh. Chào mừng anh đến TAFE. Anh có nói là anh muốn chuyển nghề. Anh đã làm công việc gì, và anh muốn học ngành gì?*
+*The dialogue begins now.*
 
-**[2] Client:** Dạ, mười năm nay tôi làm công nhân xây dựng, nhưng năm ngoái bị đau lưng nên không làm nặng được nữa. Tôi muốn học điện, vì nghe nói thợ điện ở Úc thiếu người, lương cũng cao.
-→ *For the past ten years I've worked as a construction labourer, but last year I injured my back and can't do heavy work anymore. I want to study electrical, because I've heard there's a shortage of electricians in Australia and the pay is good.*
+**[1] Advisor — EN, 27 words:** Hi, Mr Dinh. I'm Priya Patel, a course advisor here at TAFE. You mentioned you'd like to change careers. What kind of work have you been doing?
+→ *Chào anh Đinh. Tôi là Priya Patel, chuyên viên tư vấn khóa học ở TAFE. Anh có nói là anh muốn chuyển nghề. Lâu nay anh làm công việc gì?*
 
-**[3] Advisor:** Electrical is in high demand. However, becoming a licensed electrician usually requires a four-year apprenticeship, and it can still involve climbing ladders and working in tight spaces. Would that be suitable for your back?
-→ *Ngành điện đang có nhu cầu cao. Tuy nhiên, để trở thành thợ điện có giấy phép thường phải học nghề bốn năm, và công việc vẫn có thể phải leo thang và làm việc ở những chỗ chật hẹp. Như vậy có phù hợp với lưng của anh không?*
+**[2] Client — VI, 34 words:** Dạ, mười năm nay tôi làm công nhân xây dựng, nhưng năm ngoái bị đau lưng nên không làm nặng được nữa. Tôi muốn học nghề điện, nghe nói ở Úc đang thiếu thợ điện.
+→ *I've worked in construction for ten years, but last year I hurt my back and can't do heavy work anymore. I want to study electrical; I hear there's a shortage of electricians in Australia.*
 
-**[4] Client:** Tôi chưa nghĩ tới chuyện đó. Vậy có ngành nào nhẹ hơn mà dễ kiếm việc không? Tôi bốn mươi lăm tuổi rồi, học lâu quá thì cũng khó.
-→ *I hadn't thought about that. So is there a lighter field where it's easy to find work? I'm already forty-five; studying for too long would be difficult.*
+**[3] Advisor — EN, 31 words:** Electricians are in high demand. But it usually takes a four-year apprenticeship, and the work can involve climbing ladders and crawling into tight spaces. Would that be okay for your back?
+→ *Thợ điện đang rất được cần. Nhưng muốn làm thợ điện thường phải học nghề bốn năm, và công việc có thể phải leo thang, chui vào những chỗ chật hẹp. Như vậy lưng anh có chịu nổi không?*
 
-**[5] Advisor:** You might consider a Certificate IV in Building and Construction, which would let you work as a site supervisor or estimator using your experience. It takes about twelve months part-time.
-→ *Anh có thể cân nhắc chứng chỉ IV ngành Xây dựng, giúp anh làm giám sát công trường hoặc nhân viên dự toán, tận dụng kinh nghiệm của anh. Khóa này mất khoảng mười hai tháng nếu học bán thời gian.*
+**[4] Client — VI, 28 words:** Ờ, tôi chưa nghĩ tới chuyện đó. Vậy có nghề nào nhẹ hơn mà dễ kiếm việc không bà? Tôi bốn mươi lăm tuổi rồi, học lâu quá thì cũng ngại.
+→ *Hmm, I hadn't thought of that. Is there a lighter trade where it's easy to find work? I'm already forty-five; I don't want to study for too long.*
 
-**[6] Client:** Nghe được đó. Học phí khoảng bao nhiêu? Tôi đang nhận trợ cấp của Centrelink, không có nhiều tiền.
-→ *That sounds good. How much are the tuition fees approximately? I'm currently receiving Centrelink payments and don't have much money.*
+**[5] Advisor — EN, 24 words:** With your experience, you could do a Certificate IV in Building and Construction and become a site supervisor. It takes about twelve months part-time.
+→ *Với kinh nghiệm của anh, anh có thể học chứng chỉ IV ngành Xây dựng để làm giám sát công trường. Khóa này mất khoảng mười hai tháng nếu học bán thời gian.*
 
-**[7] Advisor:** This course is on the fee-free TAFE list, so if you're an Australian citizen or permanent resident, you won't pay tuition. You may also be able to get your previous experience recognised, which could shorten the course.
-→ *Khóa học này nằm trong danh sách TAFE miễn học phí, nên nếu anh là công dân Úc hoặc thường trú nhân thì anh không phải đóng học phí. Anh cũng có thể được công nhận kinh nghiệm trước đây, giúp rút ngắn thời gian học.*
+**[6] Client — VI, 19 words:** Nghe được đó. Học phí khoảng bao nhiêu bà? Tôi đang lãnh trợ cấp Centrelink, không dư dả gì.
+→ *That sounds good. Roughly how much are the fees? I'm on Centrelink payments and don't have much to spare.*
 
-**[8] Client:** Tôi là thường trú nhân. Nhưng tiếng Anh viết của tôi yếu, tôi sợ không theo kịp bài vở.
-→ *I'm a permanent resident. But my written English is weak, and I'm afraid I won't be able to keep up with the coursework.*
+**[7] Advisor — EN, 27 words:** Good news: this course is currently fee-free for citizens and permanent residents. We may also be able to recognise your work experience, which could shorten the course.
+→ *Tin vui là hiện nay khóa học này được miễn học phí cho công dân và thường trú nhân. Chúng tôi cũng có thể công nhận kinh nghiệm làm việc của anh, giúp rút ngắn thời gian học.*
 
-**[9] Advisor:** We have free literacy and numeracy support, and tutors are available in the library every afternoon. Let's book you in for the information session on the fifteenth, and I'll help you with the recognition of prior learning application.
-→ *Chúng tôi có hỗ trợ miễn phí về đọc viết và tính toán, và có gia sư ở thư viện mỗi buổi chiều. Mình đăng ký cho anh tham dự buổi thông tin vào ngày mười lăm nhé, và tôi sẽ giúp anh làm đơn xin công nhận kinh nghiệm học tập trước đây.*
+**[8] Client — VI, 17 words:** Tôi là thường trú nhân. Nhưng tiếng Anh viết của tôi yếu lắm, tôi sợ học không theo kịp.
+→ *I'm a permanent resident. But my written English is very weak; I'm afraid I won't keep up.*
+
+**[9] Advisor — EN, 19 words:** Don't worry. We offer free reading, writing and maths support, and tutors are available in the library every afternoon.
+→ *Anh đừng lo. Chúng tôi có hỗ trợ miễn phí về đọc, viết và toán, và có gia sư ở thư viện mỗi buổi chiều.*
+
+**[10] Client — VI, 12 words:** Có vậy thì tốt quá. Bây giờ tôi phải làm gì để ghi danh?
+→ *That's great to hear. What do I need to do to enrol?*
+
+**[11] Advisor — EN, 21 words:** Let's book you into the information session on the fifteenth, and I'll help you with your recognition of prior learning application.
+→ *Mình đăng ký cho anh dự buổi thông tin vào ngày mười lăm nhé, và tôi sẽ giúp anh làm đơn xin công nhận kinh nghiệm học tập trước đây.*
+
+**[12] Client — VI, 21 words:** Ngày mười lăm là thứ Hai phải không? Được, tôi sẽ tới. Tuổi này mà đi học lại, cũng hồi hộp lắm bà.
+→ *The fifteenth is a Monday, isn't it? Okay, I'll be there. Going back to study at my age is quite nerve-racking.*
+
+**[13] Advisor — EN, 15 words:** Yes, a Monday. Lots of our students are your age, so you'll fit right in.
+→ *Đúng, thứ Hai. Nhiều học viên của chúng tôi cũng trạc tuổi anh, nên anh sẽ hòa nhập ngay thôi.*
+
+**[14] Client — VI, 9 words:** Vậy hả? Vậy thì tôi bớt lo rồi. Cảm ơn bà nhiều.
+→ *Really? Then I'm less worried. Thank you very much.*
+
+*End of dialogue — 14 segments · EN 164 + VI 140 = 304 words*
+
+## Dialogue 3 – Excursion form and a shy daughter (Primary School Teacher)
+
+| Domain | Education |
+|---|---|
+| English speaker | Ms Sarah Walker, Year 3 teacher (female) |
+| Vietnamese speaker | Mr Vo, father (male) |
+| Scenario | After school pick-up, Mr Vo asks his daughter Linh's Year 3 teacher for a new excursion consent form, about the cost of the trip, and about Linh's shyness in class. |
+
+*The dialogue begins now.*
+
+**[1] Teacher — EN, 23 words:** Hello, Mr Vo. I'm Sarah Walker, Linh's Year 3 teacher. Thanks for staying back after pick-up. You wanted to ask about the excursion?
+→ *Chào ông Võ. Tôi là Sarah Walker, giáo viên lớp 3 của Linh. Cảm ơn ông đã nán lại sau giờ đón con. Ông muốn hỏi về chuyến tham quan phải không?*
+
+**[2] Father — VI, 26 words:** Dạ phải. Hôm qua cháu Linh đem về tờ giấy đồng ý đi sở thú, mà làm rớt đâu trên xe buýt mất rồi. Bà cho tôi xin tờ khác được không?
+→ *Yes. Yesterday Linh brought home a consent form for the zoo trip, but she lost it somewhere on the bus. Could I please have another one?*
+
+**[3] Teacher — EN, 25 words:** Of course, here's a new one. The trip is next Friday, and it costs twenty-five dollars, which covers the bus and entry to the zoo.
+→ *Tất nhiên rồi, tờ mới đây ông. Chuyến đi vào thứ Sáu tuần sau, chi phí là hai mươi lăm đô, gồm tiền xe buýt và vé vào sở thú.*
+
+**[4] Father — VI, 28 words:** Hai mươi lăm đô hả bà? Tháng này nhà tôi hơi kẹt, vợ tôi mới sanh em bé nên chưa đi làm lại. Có trả góp được không?
+→ *Twenty-five dollars? Money is a bit tight for us this month; my wife just had a baby and hasn't gone back to work. Can I pay in instalments?*
+
+**[5] Teacher — EN, 27 words:** Congratulations on the baby! Yes, you can pay in two parts, or talk to the office about financial assistance. We don't want any child to miss out.
+→ *Chúc mừng gia đình ông có em bé! Được, ông có thể trả làm hai lần, hoặc nói chuyện với văn phòng về trợ giúp tài chính. Chúng tôi không muốn em nào bị lỡ mất chuyến đi.*
+
+**[6] Father — VI, 29 words:** Cảm ơn bà, vậy thì đỡ quá. Tiện đây cho tôi hỏi luôn: ở lớp cháu Linh có chịu nói chuyện không? Ở nhà cháu nói như khướu, mà ra ngoài thì im re.
+→ *Thank you, that's a big help. While I'm here, can I ask: does Linh speak up in class? At home she chatters away, but outside she goes completely quiet.*
+
+**[7] Teacher — EN, 23 words:** Yes, she's quite shy. She rarely puts her hand up, but her reading is excellent and she's very kind to the other kids.
+→ *Vâng, cháu khá nhút nhát. Cháu ít khi giơ tay phát biểu, nhưng cháu đọc rất giỏi và rất tốt bụng với các bạn.*
+
+**[8] Father — VI, 25 words:** Tôi lo là cháu nhút nhát quá rồi sẽ thua kém các bạn. Hồi nhỏ tôi cũng vậy, nên tôi hiểu cảm giác đó.
+→ *I worry she's so shy that she'll fall behind the other kids. I was the same as a child, so I know how it feels.*
+
+**[9] Teacher — EN, 26 words:** Honestly, she's not falling behind at all. Excursions are actually great for shy kids. I'll pair her up with her best friend, Mia, for the day.
+→ *Nói thật với ông, cháu không hề bị tụt lại phía sau đâu. Các chuyến tham quan lại rất tốt cho những em nhút nhát. Hôm đó tôi sẽ cho cháu đi cặp với bạn thân của cháu là Mia.*
+
+**[10] Father — VI, 15 words:** Vậy thì hay quá. Cháu nhắc bạn Mia hoài. Có cần đem theo gì không bà?
+→ *That's wonderful. She talks about Mia all the time. Does she need to bring anything?*
+
+**[11] Teacher — EN, 18 words:** Just a packed lunch, a water bottle and a hat. And please return the signed form by Wednesday.
+→ *Chỉ cần đồ ăn trưa mang theo, một chai nước và một cái nón. Và xin ông nộp lại giấy đã ký trước thứ Tư.*
+
+**[12] Father — VI, 15 words:** Dạ, tối nay tôi ký liền. Đồ ăn trưa thì khỏi lo, má cháu làm bánh mì ngon lắm.
+→ *Sure, I'll sign it tonight. Lunch is no problem; her mum makes delicious Vietnamese rolls.*
+
+**[13] Teacher — EN, 14 words:** Lucky Linh! I might have to try one. Thanks for coming in, Mr Vo.
+→ *Linh sướng thật! Chắc tôi cũng phải thử một ổ mới được. Cảm ơn ông đã đến, ông Võ.*
+
+**[14] Father — VI, 11 words:** Dạ, để bữa nào tôi gửi cháu đem vô cho bà một ổ. Chào bà.
+→ *I'll send one in with her for you one day. Goodbye.*
+
+*End of dialogue — 14 segments · EN 156 + VI 149 = 305 words*
 
 ## Traps
 
@@ -140,3 +258,13 @@ Typical scenarios: parent-teacher interview, school enrolment, child bullying, l
 - "fee-free" = **miễn học phí**.
 - "I'm sorry for your loss" = **Tôi rất tiếc về sự mất mát của gia đình anh/chị** / *xin chia buồn*.
 - *học thêm* = tutoring / extra classes; *kèm* = help someone study at home.
+- *chích ngừa* (Southern) = *tiêm phòng / tiêm chủng* (Northern) = vaccinate; "immunisation records" = **hồ sơ chích ngừa / tiêm chủng**.
+- *ghi danh* = enrol (= *đăng ký nhập học*).
+- "school counsellor" = **chuyên viên tư vấn học đường** – not just *cố vấn* (adviser).
+- "fall/lag behind" = **thua kém / tụt lại phía sau**; "the work he's behind on" = *mấy bài bị trễ*.
+- *sanh* (Southern) = *sinh* → *mới sanh em bé* = "just had a baby".
+- *nói như khướu* (South also *nói như két*) → "chatters away"; *im re* → "goes completely quiet".
+- "miss out" = **bị lỡ / không được tham gia** – not *nhớ* (miss someone).
+- "stay back" = **ở lại (trường)**; "pick-up" (school) = **giờ đón con**.
+- *bánh mì* (filled roll) → "Vietnamese roll"; *một ổ* = one (loaf/roll).
+- Parents often call teachers *thầy / cô*; *ông / bà* is also correct – just stay consistent.
