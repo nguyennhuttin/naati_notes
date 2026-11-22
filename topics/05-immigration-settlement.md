@@ -51,9 +51,20 @@ Typical scenarios: settlement services for new arrivals, partner/parent visa que
 | culture shock | sốc văn hóa |
 | homesick | nhớ nhà |
 | integrate / adapt | hòa nhập / thích nghi |
-| appeal / review (AAT/ART) | kháng cáo / xem xét lại (Tòa Xét duyệt Hành chính) |
+| appeal / merits review (ART, formerly AAT) | kháng cáo / xem xét lại (Tòa Xét duyệt Hành chính – ART, trước đây là AAT) |
 | deport / removal | trục xuất |
 | overstay | ở quá hạn |
+| Department of Home Affairs | Bộ Nội vụ |
+| visitor visa | thị thực du lịch / thăm thân |
+| refusal letter | thư từ chối |
+| invitation letter | thư mời |
+| Migrant Resource Centre | Trung tâm Hỗ trợ Di dân |
+| settlement worker / caseworker | nhân viên hỗ trợ định cư |
+| enrolment form | đơn ghi danh / đơn đăng ký |
+| multiple-choice question | câu hỏi trắc nghiệm |
+| practice test | bài thi thử |
+| local council | hội đồng thành phố (hội đồng địa phương) |
+| citizenship certificate | giấy chứng nhận quốc tịch |
 
 ## Key phrases (rapid drill)
 
@@ -73,72 +84,179 @@ Typical scenarios: settlement services for new arrivals, partner/parent visa que
 
 ## Dialogue 1 – New arrival settlement (Settlement Worker)
 
-> *You will hear a dialogue between a settlement worker and a recently arrived Vietnamese woman on a partner visa.*
+| Domain | Immigration / Settlement |
+|---|---|
+| English speaker | Ms Green, settlement worker (female) |
+| Vietnamese speaker | Mrs Huynh, client (female) |
+| Scenario | Mrs Huynh arrived two months ago on a partner visa and visits a Migrant Resource Centre to find out what support is available. |
 
-**[1] Worker:** Welcome to the Migrant Resource Centre, Mrs Huynh. Our service helps new arrivals settle into life in Australia. How long have you been here, and what kind of support are you looking for?
-→ *Chào mừng chị đến Trung tâm Hỗ trợ Di dân, chị Huỳnh. Dịch vụ của chúng tôi giúp người mới đến ổn định cuộc sống ở Úc. Chị đến đây được bao lâu rồi, và chị đang cần hỗ trợ gì?*
+*The dialogue begins now.*
 
-**[2] Client:** Dạ, tôi qua Úc được hai tháng theo diện vợ chồng. Chồng tôi đi làm cả ngày nên tôi ở nhà một mình, không biết đi đâu, làm gì. Tiếng Anh của tôi cũng còn yếu lắm.
-→ *I came to Australia two months ago on a partner visa. My husband works all day, so I'm home alone and don't know where to go or what to do. My English is also still very weak.*
+**[1] Worker — EN, 28 words:** Welcome to the Migrant Resource Centre, Mrs Huynh. I'm Rachel Green, a settlement worker. How long have you been in Australia, and how can I help you today?
+→ *Chào mừng chị đến Trung tâm Hỗ trợ Di dân, chị Huỳnh. Tôi là Rachel Green, nhân viên hỗ trợ định cư. Chị đến Úc được bao lâu rồi, và hôm nay tôi có thể giúp gì cho chị?*
 
-**[3] Worker:** That's very common for new arrivals. You may be eligible for free English classes through the Adult Migrant English Program. Many classes also offer free childcare while you study. Do you have children?
-→ *Điều đó rất thường gặp ở người mới đến. Chị có thể đủ điều kiện học tiếng Anh miễn phí qua Chương trình Anh ngữ cho Người Di dân Trưởng thành. Nhiều lớp còn có dịch vụ giữ trẻ miễn phí trong lúc chị học. Chị có con không?*
+**[2] Client — VI, 26 words:** Dạ, chào bà. Tôi qua đây được hai tháng theo diện vợ chồng. Chồng tôi đi làm cả ngày, tôi ở nhà một mình. Tiếng Anh của tôi còn yếu lắm.
+→ *Hello. I came here two months ago on a partner visa. My husband works all day and I'm home alone. My English is still very weak.*
 
-**[4] Client:** Tôi có một đứa con trai bốn tuổi. Nếu có chỗ giữ cháu thì tốt quá. Ở Việt Nam tôi là kế toán, tôi muốn đi làm lại đúng nghề. Bằng của tôi có dùng được ở đây không?
-→ *I have a four-year-old son. If there's childcare for him, that would be great. In Vietnam I was an accountant and I'd like to work in my profession again. Can my qualification be used here?*
+**[3] Worker — EN, 27 words:** That's very common. You may be eligible for free English classes through the Adult Migrant English Program, and many classes offer free childcare. Do you have children?
+→ *Chuyện đó rất thường gặp. Chị có thể đủ điều kiện học tiếng Anh miễn phí qua Chương trình Anh ngữ cho Người Di dân Trưởng thành, và nhiều lớp có giữ trẻ miễn phí. Chị có con không?*
 
-**[5] Worker:** Your degree may need to be assessed by a professional body, such as CPA Australia. I can give you the details. In the meantime, improving your English will really help you find work in your field.
-→ *Bằng của chị có thể cần được một tổ chức chuyên môn, như CPA Úc, thẩm định. Tôi có thể đưa chị thông tin chi tiết. Trong thời gian chờ đợi, việc cải thiện tiếng Anh sẽ thật sự giúp chị tìm được việc đúng ngành.*
+**[4] Client — VI, 12 words:** Dạ có, tôi có một đứa con trai bốn tuổi. Có chỗ giữ cháu thì tốt quá.
+→ *Yes, I have a four-year-old son. Childcare for him would be wonderful.*
 
-**[6] Client:** Dạ cảm ơn chị. Còn một chuyện nữa, tôi chưa có thẻ Medicare. Tuần trước con tôi bị sốt, đi bác sĩ phải trả tám mươi đô. Tôi có được làm thẻ không?
-→ *Thank you. There's one more thing: I don't have a Medicare card yet. Last week my son had a fever, and going to the doctor cost eighty dollars. Am I able to get a card?*
+**[5] Worker — EN, 17 words:** Great, I'll put that on your enrolment form. What did you do for work back in Vietnam?
+→ *Tốt, tôi sẽ ghi điều đó vào đơn ghi danh của chị. Hồi ở Việt Nam chị làm nghề gì?*
 
-**[7] Worker:** Yes, partner visa holders, including those on the temporary stage, can usually enrol in Medicare. You'll need your passport and visa grant letter. I can help you fill in the form today.
-→ *Có, người có thị thực diện vợ chồng, kể cả giai đoạn tạm trú, thường có thể đăng ký Medicare. Chị cần mang theo hộ chiếu và thư cấp thị thực. Hôm nay tôi có thể giúp chị điền đơn.*
+**[6] Client — VI, 26 words:** Tôi làm kế toán mười năm. Tôi muốn đi làm lại đúng nghề, nhưng không biết bằng cấp bên Việt Nam qua đây có được công nhận không.
+→ *I was an accountant for ten years. I'd like to work in my profession again, but I don't know if my Vietnamese qualifications are recognised here.*
 
-**[8] Client:** Vậy thì hay quá. Tôi cũng muốn quen thêm bạn bè người Việt ở khu này, tôi buồn và nhớ nhà lắm.
-→ *That's wonderful. I'd also like to make more Vietnamese friends in this area; I'm very lonely and homesick.*
+**[7] Worker — EN, 32 words:** Your degree may need to be assessed by a professional body, such as CPA Australia. I'll give you their details. Meanwhile, improving your English will help you find work in your field.
+→ *Bằng của chị có thể cần được một tổ chức chuyên môn, như CPA Úc, thẩm định. Tôi sẽ đưa chị thông tin liên lạc của họ. Trong lúc đó, cải thiện tiếng Anh sẽ giúp chị tìm được việc đúng ngành.*
 
-**[9] Worker:** We run a women's social group every Wednesday morning, and several members speak Vietnamese. It's a great way to make friends and learn about local services. Would you like me to add your name?
-→ *Chúng tôi có nhóm sinh hoạt dành cho phụ nữ vào mỗi sáng thứ Tư, và có nhiều thành viên nói tiếng Việt. Đó là cách rất tốt để kết bạn và tìm hiểu về các dịch vụ địa phương. Chị có muốn tôi ghi tên chị vào không?*
+**[8] Client — VI, 30 words:** Dạ cảm ơn bà. Còn một chuyện nữa, tôi chưa có thẻ Medicare. Tuần trước cháu bị sốt, đi bác sĩ mất tám mươi đô. Tôi làm thẻ được không?
+→ *Thank you. One more thing: I don't have a Medicare card yet. Last week my son had a fever, and the doctor cost eighty dollars. Can I get a card?*
 
-## Dialogue 2 – Visa refusal (Immigration Lawyer)
+**[9] Worker — EN, 31 words:** Yes, partner visa holders can usually enrol in Medicare, even on the temporary stage. You'll need your passport and visa grant letter. I can help you fill in the form today.
+→ *Được, người có thị thực diện vợ chồng thường có thể đăng ký Medicare, kể cả ở giai đoạn tạm trú. Chị cần có hộ chiếu và thư cấp thị thực. Hôm nay tôi có thể giúp chị điền đơn.*
 
-> *You will hear a dialogue between an immigration lawyer and a Vietnamese man whose visa was refused.*
+**[10] Client — VI, 16 words:** Tôi có đem hộ chiếu theo đây, còn thư cấp thị thực thì nằm trong email trên điện thoại.
+→ *I've brought my passport, and the visa grant letter is in my email on my phone.*
 
-**[1] Lawyer:** Good afternoon, Mr Bui. I've read the refusal letter you sent me. The department refused your parent's visitor visa because they weren't satisfied your mother would return to Vietnam. Do you understand the reason?
-→ *Chào anh Bùi. Tôi đã đọc thư từ chối anh gửi cho tôi. Bộ đã từ chối thị thực du lịch của mẹ anh vì họ không tin rằng mẹ anh sẽ quay về Việt Nam. Anh có hiểu lý do đó không?*
+**[11] Worker — EN, 11 words:** Perfect, that will do. Is there anything else on your mind?
+→ *Tốt lắm, vậy là được rồi. Chị còn điều gì băn khoăn nữa không?*
 
-**[2] Client:** Dạ, tôi có đọc nhưng không hiểu hết. Mẹ tôi chỉ muốn qua thăm cháu nội mới sinh khoảng ba tháng rồi về. Bà còn nhà cửa, còn ba tôi ở Việt Nam, sao họ lại nghĩ bà ở lại?
-→ *I read it but didn't fully understand it. My mother only wants to come to visit her newborn grandchild for about three months and then go back. She still has her house and my father in Vietnam, so why do they think she'll stay?*
+**[12] Client — VI, 21 words:** Dạ, tôi muốn quen thêm bạn bè người Việt ở khu này. Ở đây lạ nước lạ cái, tôi buồn và nhớ nhà lắm.
+→ *I'd like to make more Vietnamese friends in this area. Everything here is so unfamiliar, and I'm very lonely and homesick.*
 
-**[3] Lawyer:** The problem is that the application didn't include enough evidence of her ties to Vietnam. For example, property ownership papers, bank statements, or proof that your father is staying behind.
-→ *Vấn đề là đơn xin không có đủ bằng chứng về sự ràng buộc của bà với Việt Nam. Ví dụ như giấy tờ sở hữu nhà đất, sao kê ngân hàng, hoặc bằng chứng cho thấy ba anh vẫn ở lại Việt Nam.*
+**[13] Worker — EN, 25 words:** We run a women's group every Wednesday morning, and several members speak Vietnamese. It's a lovely way to make friends. Shall I add your name?
+→ *Chúng tôi có nhóm sinh hoạt phụ nữ vào mỗi sáng thứ Tư, và có vài thành viên nói tiếng Việt. Đó là cách rất hay để kết bạn. Tôi ghi tên chị vào nhé?*
 
-**[4] Client:** Lúc đó tôi tự nộp đơn trên mạng, không biết phải nộp những giấy tờ đó. Giờ tôi có thể kháng cáo được không? Hay phải nộp đơn lại từ đầu?
-→ *At that time I lodged the application online myself and didn't know I had to submit those documents. Can I appeal now? Or do I have to apply again from the beginning?*
+**[14] Client — VI, 15 words:** Dạ, bà ghi giùm tôi. Thứ Tư tôi dẫn cháu theo luôn được không?
+→ *Yes, please put my name down. Can I bring my son along on Wednesday too?*
 
-**[5] Lawyer:** For visitor visas lodged outside Australia, there are generally no review rights. So the best option is to lodge a new application with stronger evidence. There's no limit on how many times you can apply.
-→ *Đối với thị thực du lịch nộp từ ngoài nước Úc, thông thường không có quyền kháng cáo. Vì vậy, lựa chọn tốt nhất là nộp đơn mới với bằng chứng thuyết phục hơn. Không có giới hạn số lần nộp đơn.*
+*End of dialogue — 14 segments · EN 171 + VI 146 = 317 words*
 
-**[6] Client:** Vậy tôi cần chuẩn bị những gì? Giấy tờ tiếng Việt có cần dịch ra tiếng Anh không? Và lệ phí có phải đóng lại không?
-→ *So what do I need to prepare? Do Vietnamese documents need to be translated into English? And do I have to pay the fee again?*
+## Dialogue 2 – Visitor visa refusal (Immigration Lawyer)
 
-**[7] Lawyer:** Yes, all documents not in English must be translated, ideally by a NAATI-certified translator. Unfortunately, you'll have to pay the application fee again. I'd also include a letter from you, as the sponsor, explaining the purpose of the visit.
-→ *Có, tất cả giấy tờ không phải tiếng Anh đều phải được dịch, tốt nhất là bởi biên dịch viên có chứng nhận NAATI. Rất tiếc là anh sẽ phải đóng lại lệ phí nộp đơn. Tôi cũng sẽ kèm theo một lá thư của anh, với tư cách là người bảo lãnh, giải thích mục đích chuyến thăm.*
+| Domain | Immigration / Settlement |
+|---|---|
+| English speaker | Mr Hughes, immigration lawyer (male) |
+| Vietnamese speaker | Mr Bui, client (male) |
+| Scenario | Mr Bui's mother was refused a visitor visa to come and see her new grandchild, and he asks a lawyer what to do next. |
 
-**[8] Client:** Tôi hiểu rồi. Nếu lần này được cấp, mẹ tôi có thể ở lại lâu hơn ba tháng không, vì vợ tôi cần người phụ chăm em bé?
-→ *I understand. If it's granted this time, can my mother stay longer than three months, because my wife needs someone to help look after the baby?*
+*The dialogue begins now.*
 
-**[9] Lawyer:** You could request a stay of up to twelve months, but a longer stay can make the department more cautious. My advice is to ask for six months and clearly show she'll return for her husband and property.
-→ *Anh có thể xin cho bà ở tối đa mười hai tháng, nhưng thời gian ở càng lâu có thể khiến Bộ thận trọng hơn. Lời khuyên của tôi là xin sáu tháng và chứng minh rõ ràng bà sẽ về vì còn chồng và nhà cửa ở bên đó.*
+**[1] Lawyer — EN, 28 words:** Good afternoon, Mr Bui. I'm Daniel Hughes. I've read the refusal letter. Your mother's visitor visa was refused because the department wasn't satisfied she would return to Vietnam.
+→ *Chào anh Bùi. Tôi là Daniel Hughes. Tôi đã đọc thư từ chối. Thị thực du lịch của mẹ anh bị từ chối vì Bộ không tin chắc rằng bà sẽ quay về Việt Nam.*
+
+**[2] Client — VI, 30 words:** Dạ, tôi đọc mà không hiểu hết. Mẹ tôi chỉ muốn qua thăm cháu nội mới sinh ba tháng rồi về. Ba tôi còn ở Việt Nam mà!
+→ *I read it, but didn't understand all of it. My mother just wants to visit her newborn grandchild for three months, then go home. My father is still in Vietnam!*
+
+**[3] Lawyer — EN, 26 words:** The problem is the application didn't show enough evidence of her ties to Vietnam, like property papers, bank statements, or proof your father is staying there.
+→ *Vấn đề là đơn xin không cho thấy đủ bằng chứng về sự ràng buộc của bà với Việt Nam, như giấy tờ nhà đất, sao kê ngân hàng, hoặc bằng chứng ba anh vẫn ở lại bên đó.*
+
+**[4] Client — VI, 30 words:** Hồi đó tôi tự nộp đơn trên mạng, đâu có biết phải nộp mấy giấy tờ đó. Giờ tôi kháng cáo được không, hay phải nộp lại từ đầu?
+→ *At the time, I lodged the application online myself and had no idea I needed those documents. Can I appeal now, or do I have to start again from scratch?*
+
+**[5] Lawyer — EN, 28 words:** You may be able to ask the Administrative Review Tribunal to review it, but that can take many months. A new application with stronger evidence is usually quicker.
+→ *Anh có thể có quyền yêu cầu Tòa Xét duyệt Hành chính xem xét lại, nhưng việc đó có thể mất nhiều tháng. Nộp đơn mới với bằng chứng thuyết phục hơn thường nhanh hơn.*
+
+**[6] Client — VI, 29 words:** Nhiều tháng thì lâu quá. Vậy tôi nộp đơn mới. Giấy tờ tiếng Việt có phải dịch ra tiếng Anh không? Còn lệ phí có phải đóng lại không?
+→ *Many months is too long. So I'll lodge a new application. Do Vietnamese documents have to be translated into English? And do I have to pay the fee again?*
+
+**[7] Lawyer — EN, 24 words:** Yes, everything not in English must be translated, ideally by a NAATI-certified translator. And unfortunately, yes, you'll have to pay the application fee again.
+→ *Có, mọi giấy tờ không phải tiếng Anh đều phải được dịch, tốt nhất là bởi biên dịch viên có chứng nhận NAATI. Và rất tiếc là có, anh sẽ phải đóng lại lệ phí nộp đơn.*
+
+**[8] Client — VI, 13 words:** Thôi, tốn tiền cũng được, miễn mẹ tôi qua được là mừng rồi.
+→ *Oh well, I don't mind paying, as long as my mother can come.*
+
+**[9] Lawyer — EN, 20 words:** I'd also include an invitation letter from you, explaining the purpose of the visit and how you'll support her here.
+→ *Tôi cũng sẽ kèm theo một thư mời của anh, giải thích mục đích chuyến thăm và anh sẽ lo cho bà ở bên này như thế nào.*
+
+**[10] Client — VI, 26 words:** Dạ được. Lần này nếu được cấp, mẹ tôi ở lâu hơn ba tháng được không? Vợ tôi mới sinh, cần người phụ chăm em bé.
+→ *Sure. If it's granted this time, can my mother stay longer than three months? My wife has just given birth and needs help with the baby.*
+
+**[11] Lawyer — EN, 26 words:** You can ask for up to twelve months, but a longer stay can make the department more cautious. My advice is to ask for six months.
+→ *Anh có thể xin tối đa mười hai tháng, nhưng ở càng lâu có thể khiến Bộ thận trọng hơn. Lời khuyên của tôi là xin sáu tháng.*
+
+**[12] Client — VI, 11 words:** Sáu tháng là được rồi. Ông giúp tôi làm hồ sơ luôn nha?
+→ *Six months is fine. Could you prepare the application for me?*
+
+**[13] Lawyer — EN, 18 words:** Of course. Send me her documents by next Friday, and I'll lodge the new application within two weeks.
+→ *Dĩ nhiên rồi. Anh gửi giấy tờ của bà cho tôi chậm nhất là thứ Sáu tuần sau, và tôi sẽ nộp đơn mới trong vòng hai tuần.*
+
+**[14] Client — VI, 18 words:** Dạ, cảm ơn ông nhiều. Tối nay tôi gọi về dặn ba má gom giấy tờ liền.
+→ *Thank you very much. I'll call home tonight and tell my parents to gather the papers straight away.*
+
+*End of dialogue — 14 segments · EN 170 + VI 157 = 327 words*
+
+## Dialogue 3 – Preparing for the citizenship test (Settlement Caseworker)
+
+| Domain | Immigration / Settlement |
+|---|---|
+| English speaker | Mr Evans, settlement caseworker (male) |
+| Vietnamese speaker | Mrs Lam, client (female, 50s) |
+| Scenario | Mrs Lam has applied for Australian citizenship and is nervous about the test, so she asks a caseworker how to prepare and what happens at the ceremony. |
+
+*The dialogue begins now.*
+
+**[1] Caseworker — EN, 21 words:** Hello, Mrs Lam, I'm Mark Evans. Have a seat. I hear you've applied for Australian citizenship. Congratulations! How can I help?
+→ *Chào bà Lâm, tôi là Mark Evans. Mời bà ngồi. Tôi nghe nói bà đã nộp đơn xin nhập quốc tịch Úc. Xin chúc mừng bà! Tôi có thể giúp gì cho bà?*
+
+**[2] Client — VI, 29 words:** Dạ, chào ông Evans. Tôi qua đây được bảy năm rồi. Tháng trước tôi nhận thư hẹn đi thi quốc tịch, mà tôi lo quá, ăn không ngon ngủ không yên.
+→ *Hello, Mr Evans. I've been here for seven years. Last month I got a letter with my citizenship test appointment, and I'm so worried I can't eat or sleep.*
+
+**[3] Caseworker — EN, 19 words:** Please don't worry, lots of people feel that way. What part of the test are you most worried about?
+→ *Bà đừng lo, nhiều người cũng cảm thấy như vậy. Bà lo nhất về phần nào của bài thi?*
+
+**[4] Client — VI, 28 words:** Tiếng Anh của tôi chỉ đủ đi chợ thôi. Nghe nói phải trả lời câu hỏi về lịch sử với luật pháp Úc. Tôi sợ đọc không hiểu đề.
+→ *My English is only good enough for grocery shopping. I've heard you have to answer questions about Australian history and laws. I'm afraid I won't understand the questions.*
+
+**[5] Caseworker — EN, 26 words:** The test is in English, on a computer, with twenty multiple-choice questions. Everything comes from a free booklet called Our Common Bond. Have you seen it?
+→ *Bài thi bằng tiếng Anh, làm trên máy điện toán, gồm hai mươi câu hỏi trắc nghiệm. Tất cả đều lấy từ một cuốn sách miễn phí tên là "Our Common Bond". Bà đã xem cuốn đó chưa?*
+
+**[6] Client — VI, 8 words:** Dạ chưa. Cuốn đó có tiếng Việt không ông?
+→ *No, not yet. Is it available in Vietnamese?*
+
+**[7] Caseworker — EN, 29 words:** Yes, there's a Vietnamese translation online. Read that first so you understand the ideas, then practise in English. There are free practice tests on the Home Affairs website, too.
+→ *Có, trên mạng có bản dịch tiếng Việt. Bà đọc bản đó trước để hiểu nội dung, rồi luyện bằng tiếng Anh. Trên trang web của Bộ Nội vụ cũng có các bài thi thử miễn phí.*
+
+**[8] Client — VI, 23 words:** Hay quá. Con gái tôi học đại học, tối nào nó cũng rảnh, để tôi nhờ nó kèm cho. Mà lỡ thi rớt thì sao ông?
+→ *That's great. My daughter's at university and she's free every evening, so I'll ask her to tutor me. But what if I fail?*
+
+**[9] Caseworker — EN, 28 words:** Then you can simply book another test. Some people need more than one go. You'll also have a short interview on the day, so bring your original documents.
+→ *Thì bà chỉ cần đặt hẹn thi lại thôi. Có người phải thi hơn một lần. Hôm đi thi bà cũng sẽ có một cuộc phỏng vấn ngắn, nên nhớ mang theo giấy tờ bản gốc.*
+
+**[10] Client — VI, 17 words:** Dạ, tôi nhớ rồi. Còn nếu đậu thì khi nào làm lễ tuyên thệ? Tôi có được dẫn gia đình theo không?
+→ *Okay, I'll remember. And if I pass, when is the citizenship ceremony? Can I bring my family?*
+
+**[11] Caseworker — EN, 26 words:** Ceremonies are usually run by your local council, a few months after approval. You'll make the pledge and get your certificate, and yes, family are welcome.
+→ *Lễ tuyên thệ thường do hội đồng thành phố nơi bà ở tổ chức, vài tháng sau khi đơn được chấp thuận. Bà sẽ đọc lời tuyên thệ và nhận giấy chứng nhận, và vâng, gia đình bà được đến dự.*
+
+**[12] Client — VI, 25 words:** Vậy tôi mặc áo dài đi được không? Cái áo dài đỏ này tôi giữ từ hồi qua Úc tới giờ, để dành cho ngày đó đó.
+→ *So can I wear an ao dai? I've kept this red ao dai ever since I came to Australia, saving it for that very day.*
+
+**[13] Caseworker — EN, 22 words:** Of course! Lots of people wear traditional dress. Let's meet again next Tuesday at ten to go through the practice test together.
+→ *Được chứ! Nhiều người mặc trang phục truyền thống lắm. Thứ Ba tuần sau lúc mười giờ, chúng ta gặp lại để cùng làm bài thi thử nhé.*
+
+**[14] Client — VI, 15 words:** Dạ, thứ Ba mười giờ, để tôi ghi lại liền. Cảm ơn ông nhiều lắm, ông dễ thương quá.
+→ *Tuesday at ten, I'll write it down now. Thank you so much, you're very kind.*
+
+*End of dialogue — 14 segments · EN 171 + VI 145 = 316 words*
 
 ## Traps
 
 - "the department" = **Bộ (Nội vụ)** – don't drop it.
+- "wasn't satisfied" (decision letters) = **không tin chắc / chưa được thuyết phục** – not *không hài lòng*.
 - "lodge an application" = **nộp đơn**.
 - "ties to home country" = **sự ràng buộc với quê nhà**.
 - "review rights" = **quyền yêu cầu xem xét lại / kháng cáo**.
+- The AAT no longer exists: since October 2024 reviews go to the **Administrative Review Tribunal (ART) = Tòa Xét duyệt Hành chính**.
 - "visitor visa" = *thị thực du lịch / thăm thân*.
+- "by next Friday" = **chậm nhất là thứ Sáu tuần sau** (*trước thứ Sáu* would exclude Friday).
+- "multiple-choice" = **trắc nghiệm**; "practice test" = **bài thi thử**; "local council" = **hội đồng thành phố**.
 - *cháu nội* = paternal grandchild (son's child) / *cháu ngoại* = daughter's child — in English just "grandchild".
-- *ba / bố*, *má / mẹ* – South / North.
+- *ăn không ngon ngủ không yên* → "can't eat or sleep" (by meaning); *lạ nước lạ cái* → "everything is unfamiliar".
+- *dễ thương* said to an adult professional = "kind / lovely", not "cute".
+- *đậu / rớt* (South) = *đỗ / trượt* (North) = pass / fail.
+- *ba / bố*, *má / mẹ* – South / North; *gọi về* = call home (to Vietnam).
