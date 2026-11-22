@@ -24,7 +24,9 @@ Master this file first. These are the words that cause the most lost marks becau
 | Tôi không rõ lắm | I'm not quite sure / I don't really understand |
 | Phiền anh/chị… | Would you mind… / Could you please… |
 
-> **Tip:** Vietnamese uses kinship pronouns (*cô, chú, bác, con, cháu, em*). Interpret into English as I/you. Going EN → VI, use *anh/chị* (or *ông/bà* for elderly) as a safe neutral choice. Keep it consistent within one dialogue.
+> **Tip:** Vietnamese uses kinship pronouns (*cô, chú, bác, con, cháu, em*). Interpret into English as I/you. Going EN → VI, use *ông/bà* (as NAATI's official samples do) or *anh/chị* for younger clients. Keep it consistent within one dialogue. **Never use *bạn*** to address a client or professional.
+>
+> **Correction phrase (allowed once):** "Sorry, I'll just say that part again." / *Xin lỗi, tôi xin nói lại phần đó.*
 
 ## 2. Numbers, money, time – NEVER drop these
 
@@ -123,6 +125,36 @@ Master this file first. These are the words that cause the most lost marks becau
 | Rồi | Already / then |
 | Chưa | Not yet |
 
+## 4b. North / South / diaspora words you will hear
+
+The official Vietnamese samples mix regional forms (e.g. *Vâng, thế thì* alongside *chích ngừa, Bộ … hay sao, ngày mốt*). Recognise both columns instantly.
+
+| Southern / diaspora | Northern / standard | English |
+|---|---|---|
+| chích ngừa | tiêm phòng / tiêm chủng | vaccinate / immunisation |
+| ghi danh | đăng ký nhập học | enrol |
+| điện toán | tin học / máy tính | computing / IT |
+| đô | đô la | dollars |
+| ngàn | nghìn | thousand |
+| ba / má | bố / mẹ | dad / mum |
+| ngày mốt | ngày kia | day after tomorrow |
+| bữa nay / bữa qua | hôm nay / hôm qua | today / yesterday |
+| xài | dùng / tiêu | use / spend |
+| lời / lỗ | lãi / lỗ | profit / loss |
+| bao tử | dạ dày | stomach |
+| ói | nôn | vomit |
+| bịnh | bệnh | illness |
+| nhà thương | bệnh viện | hospital |
+| xe hơi | ô tô | car |
+| tiệm | cửa hàng / hiệu | shop |
+| dzậy / vầy | vậy / như thế này | so / like this |
+| Bộ … hay sao? | Chẳng lẽ … à? | (surprised question) "Has … really …?" |
+| để dành | tiết kiệm | save up |
+| hồi nãy / hồi đó | lúc nãy / hồi ấy | earlier / back then |
+| mắc (tiền) | đắt | expensive |
+| kêu | gọi | call |
+| hổng / hông | không | no / not |
+
 ## 5. Australian systems & organisations (all topics)
 
 | English | Vietnamese |
@@ -161,3 +193,11 @@ Master this file first. These are the words that cause the most lost marks becau
 | free of charge | miễn phí |
 | discount / concession | giảm giá / ưu đãi (cho người có thẻ) |
 | interpreter | thông dịch viên |
+| Workforce Australia (replaced jobactive in 2022) | Workforce Australia (dịch vụ việc làm) |
+| Administrative Review Tribunal (ART, replaced the AAT in 2024) | Tòa Xét duyệt Hành chính (ART) |
+| council rates | thuế/phí hội đồng địa phương |
+| utility bill | hóa đơn điện / nước / ga |
+| proof of address | giấy tờ chứng minh địa chỉ |
+| case manager | nhân viên phụ trách hồ sơ |
+| social worker | nhân viên xã hội |
+| refer (someone to a service) | giới thiệu (đến một dịch vụ) |
