@@ -30,7 +30,8 @@ Typical scenarios: Centrelink payments (JobSeeker, Family Tax Benefit, Carer, Di
 | emergency relief | cứu trợ khẩn cấp |
 | food voucher / food bank | phiếu thực phẩm / ngân hàng thực phẩm |
 | aged care / residential aged care | chăm sóc người cao tuổi / viện dưỡng lão |
-| home care package | gói chăm sóc tại nhà |
+| Support at Home program (formerly Home Care Packages) | chương trình Hỗ trợ tại Nhà (Support at Home) |
+| aged care assessor | chuyên viên đánh giá chăm sóc người cao tuổi |
 | My Aged Care assessment | đánh giá của My Aged Care |
 | respite care | chăm sóc tạm thời (để người chăm sóc nghỉ ngơi) |
 | Meals on Wheels | dịch vụ giao bữa ăn tận nhà |
@@ -54,6 +55,18 @@ Typical scenarios: Centrelink payments (JobSeeker, Family Tax Benefit, Carer, Di
 | proof of income / payslips | bằng chứng thu nhập / phiếu lương |
 | Centrelink Customer Reference Number (CRN) | số khách hàng Centrelink (CRN) |
 | nominee | người được ủy quyền |
+| Youth Allowance | trợ cấp thanh thiếu niên (Youth Allowance) |
+| Living Away from Home rate | mức trợ cấp sống xa nhà |
+| circumstances | hoàn cảnh |
+| mediation | hòa giải |
+| parent support group | nhóm hỗ trợ phụ huynh |
+| refer you to a service | giới thiệu đến dịch vụ |
+| repayment plan / arrangement | kế hoạch trả góp |
+| one-off payment | khoản trả một lần |
+| severe financial hardship | khó khăn tài chính nghiêm trọng |
+| confirm your identity | xác minh danh tính |
+| fire brigade | sở cứu hỏa |
+| Carer Gateway | Carer Gateway (dịch vụ hỗ trợ người chăm sóc) |
 
 ## Key phrases (rapid drill)
 
@@ -73,65 +86,165 @@ Typical scenarios: Centrelink payments (JobSeeker, Family Tax Benefit, Carer, Di
 
 ## Dialogue 1 – Centrelink overpayment (Centrelink Officer)
 
-> *You will hear a dialogue between a Centrelink officer and a Vietnamese-speaking single mother.*
+| Domain | Social Services |
+|---|---|
+| English speaker | Mr Evans, Centrelink officer (male) |
+| Vietnamese speaker | Ms Mai, single mother of two (female) |
+| Scenario | Ms Mai has received a letter saying she owes Centrelink money for Parenting Payment. She meets a Centrelink officer to find out why and how to repay it. |
 
-**[1] Officer:** Good morning, Ms Mai. I understand you've received a letter about a debt. According to our records, you were overpaid Parenting Payment between March and August because your income wasn't fully reported.
-→ *Chào chị Mai. Tôi được biết chị đã nhận được thư về một khoản nợ. Theo hồ sơ của chúng tôi, chị đã được trả thừa trợ cấp nuôi con từ tháng Ba đến tháng Tám vì thu nhập của chị không được khai báo đầy đủ.*
+*The dialogue begins now.*
 
-**[2] Client:** Dạ, tôi có đọc thư nói tôi nợ ba ngàn hai trăm đô, nhưng tôi không hiểu. Tôi làm thêm ở tiệm may, mỗi tuần mười tiếng, và tôi có khai báo mỗi hai tuần mà.
-→ *I read the letter saying I owe three thousand two hundred dollars, but I don't understand. I work part-time at a tailor's shop, ten hours a week, and I did report every fortnight.*
+**[1] Officer — EN, 26 words:** Good morning, Ms Mai. I'm Mark Evans from Centrelink. I understand you've received a letter about a Parenting Payment debt. Shall we go through it together?
+→ *Chào chị Mai. Tôi là Mark Evans ở Centrelink. Tôi được biết chị đã nhận được thư về một khoản nợ trợ cấp nuôi con. Mình cùng xem lại thư đó nhé?*
 
-**[3] Officer:** Let me check. It looks like from May, your hours increased and your employer's records show you earned more than you reported. Did you report the amount before tax, which is your gross income?
-→ *Để tôi kiểm tra. Có vẻ như từ tháng Năm, số giờ làm của chị đã tăng lên và hồ sơ của chủ lao động cho thấy chị kiếm được nhiều hơn số chị đã khai báo. Chị có khai báo số tiền trước thuế, tức là thu nhập gộp, không?*
+**[2] Client — VI, 32 words:** Dạ, chào ông Evans. Thư nói tôi nợ ba ngàn hai trăm đô, tôi muốn xỉu luôn! Tôi làm thêm ở tiệm may, mỗi tuần mười tiếng, và lần nào tôi cũng khai báo thu nhập.
+→ *Hello, Mr Evans. The letter says I owe three thousand two hundred dollars. I nearly fainted! I work part-time at a tailor's, ten hours a week, and I always report my income.*
 
-**[4] Client:** Trời, tôi khai số tiền tôi nhận vào tài khoản, tức là sau thuế. Không ai nói cho tôi biết phải khai trước thuế. Tháng Năm đó tiệm đông khách nên chủ nhờ tôi làm thêm vài ca.
-→ *Oh no, I reported the amount I received in my account, which is after tax. Nobody told me I had to report it before tax. In May the shop was busy, so the owner asked me to do a few extra shifts.*
+**[3] Officer — EN, 25 words:** Let me check. From May your hours went up, and your employer reported higher earnings than you did. Did you report your income before tax?
+→ *Để tôi kiểm tra. Từ tháng Năm, số giờ làm của chị tăng lên, và chủ lao động khai thu nhập của chị cao hơn số chị khai. Chị có khai thu nhập trước thuế không?*
 
-**[5] Officer:** I understand it was a genuine mistake. The debt still needs to be repaid, but there's no penalty. If you think the amount is wrong, you can ask for an Authorised Review Officer to review the decision.
-→ *Tôi hiểu đây là một sự nhầm lẫn thật sự. Khoản nợ vẫn phải được hoàn trả, nhưng chị sẽ không bị phạt. Nếu chị nghĩ số tiền đó không đúng, chị có thể yêu cầu một Viên chức Xét duyệt có thẩm quyền xem xét lại quyết định.*
+**[4] Client — VI, 25 words:** Trời đất ơi, tôi khai số tiền vô tài khoản, tức là sau thuế. Đâu có ai nói tôi phải khai trước thuế đâu!
+→ *Oh my goodness, I reported what went into my bank account, which is after tax. Nobody told me I had to report it before tax!*
 
-**[6] Client:** Tôi không có tiền trả một lần ba ngàn đô. Tôi nuôi hai đứa con một mình, tiền nhà cũng đã khó khăn rồi. Có trả góp được không?
-→ *I don't have three thousand dollars to pay all at once. I'm raising two children on my own, and paying the rent is already hard. Can I pay it in instalments?*
+**[5] Officer — EN, 32 words:** I understand it was a genuine mistake, so there's no penalty. But the debt still needs to be repaid. If you think the amount is wrong, you can ask for a review.
+→ *Tôi hiểu đây là nhầm lẫn thật sự, nên chị sẽ không bị phạt. Nhưng khoản nợ vẫn phải được hoàn trả. Nếu chị nghĩ số tiền không đúng, chị có thể yêu cầu xem xét lại.*
 
-**[7] Officer:** Yes, we can set up a repayment arrangement by deducting a small amount from your fortnightly payment, for example twenty-five dollars. That way it won't cause too much hardship for you and your children.
-→ *Được, chúng tôi có thể sắp xếp trả góp bằng cách khấu trừ một khoản nhỏ từ tiền trợ cấp hai tuần một lần của chị, ví dụ hai mươi lăm đô. Như vậy sẽ không gây quá nhiều khó khăn cho chị và các cháu.*
+**[6] Client — VI, 29 words:** Số tiền thì chắc đúng, hồi tháng Năm tiệm đông khách, bà chủ cho tôi làm thêm mấy ca. Nhưng tôi không trả nổi ba ngàn đô một lần.
+→ *The amount's probably right; in May the shop was busy and the owner gave me a few extra shifts. But I can't pay three thousand dollars all at once.*
 
-**[8] Client:** Dạ, như vậy thì được. Từ nay về sau tôi khai như thế nào cho đúng?
-→ *Okay, that works. From now on, how should I report correctly?*
+**[7] Officer — EN, 9 words:** That's okay. We can set up a repayment plan.
+→ *Không sao. Chúng tôi có thể sắp xếp cho chị trả góp.*
 
-**[9] Officer:** Always report your gross income for the days you actually worked, not the day you were paid. Your payslip shows the gross amount at the top. I can also book you a session with a Vietnamese-speaking officer to go through it.
-→ *Chị luôn khai báo thu nhập gộp cho những ngày chị thực sự làm việc, không phải ngày chị được trả lương. Phiếu lương của chị có ghi số tiền gộp ở phía trên. Tôi cũng có thể đặt hẹn cho chị gặp một nhân viên nói tiếng Việt để hướng dẫn chi tiết.*
+**[8] Client — VI, 21 words:** Vậy thì may quá. Tôi nuôi hai đứa nhỏ một mình, riêng tiền nhà thôi là đã muốn hụt hơi rồi.
+→ *That's a relief. I'm raising two kids on my own, and just paying the rent leaves me struggling to keep up.*
+
+**[9] Officer — EN, 27 words:** I understand. We can take a small amount from each fortnightly payment, say twenty-five dollars, so it won't cause too much hardship for you and the children.
+→ *Tôi hiểu. Chúng tôi có thể khấu trừ một khoản nhỏ từ mỗi kỳ trợ cấp hai tuần, ví dụ hai mươi lăm đô, để chị và các cháu không bị quá khó khăn.*
+
+**[10] Client — VI, 12 words:** Dạ, như vậy thì được. Từ nay về sau tôi phải khai sao cho đúng ông?
+→ *Okay, that works. From now on, how should I report it correctly?*
+
+**[11] Officer — EN, 25 words:** Always report your gross income, before tax, for the days you actually worked, not the day you were paid. Your payslip shows the gross amount.
+→ *Chị luôn khai thu nhập gộp, tức là trước thuế, cho những ngày chị thực sự đi làm, không phải ngày được trả lương. Phiếu lương của chị có ghi số tiền gộp.*
+
+**[12] Client — VI, 21 words:** Mấy cái phiếu lương toàn chữ với số, tôi nhìn hoa cả mắt. Có ai chỉ cho tôi bằng tiếng Việt được không ông?
+→ *Those payslips are full of words and numbers; they make my head spin. Could someone explain it to me in Vietnamese?*
+
+**[13] Officer — EN, 22 words:** Of course. I'll book you in with a Vietnamese-speaking officer next Tuesday at two. Please bring a couple of payslips with you.
+→ *Dĩ nhiên rồi. Tôi sẽ đặt hẹn cho chị gặp một nhân viên nói tiếng Việt vào thứ Ba tuần sau lúc hai giờ. Chị nhớ mang theo vài phiếu lương nhé.*
+
+**[14] Client — VI, 17 words:** Dạ, hai giờ thì được, tôi còn kịp đi đón con. Cảm ơn ông nhiều.
+→ *Two o'clock is fine; I'll still have time to pick up the kids. Thank you very much.*
+
+*End of dialogue — 14 segments · EN 166 + VI 157 = 323 words*
 
 ## Dialogue 2 – Aged care for elderly parent (Aged Care Assessor)
 
-> *You will hear a dialogue between an aged care assessor and a Vietnamese woman caring for her elderly father.*
+| Domain | Social Services |
+|---|---|
+| English speaker | Ms Ford, aged care assessor (female) |
+| Vietnamese speaker | Ms Vu, daughter and carer (female) |
+| Scenario | An aged care assessor visits Ms Vu at home to assess her 86-year-old father for help at home under the Support at Home program. |
 
-**[1] Assessor:** Hello, Ms Vu. I'm from the Aged Care Assessment Team. I'm here to understand your father's needs so we can work out what support he's eligible for. Can you tell me about his health?
-→ *Chào chị Vũ. Tôi làm ở Nhóm Đánh giá Chăm sóc Người cao tuổi. Tôi đến đây để tìm hiểu nhu cầu của ba chị, để chúng tôi xác định ông đủ điều kiện nhận những hỗ trợ nào. Chị có thể cho tôi biết về sức khỏe của ông không?*
+*The dialogue begins now.*
 
-**[2] Daughter:** Dạ, ba tôi năm nay tám mươi sáu tuổi, bị tiểu đường và mới bị tai biến nhẹ hồi tháng Bảy. Bây giờ ông đi đứng yếu, hay quên, có lần đi ra ngoài rồi không nhớ đường về.
-→ *My father is eighty-six this year; he has diabetes and had a minor stroke in July. Now he's weak on his feet and forgetful; once he went out and couldn't remember the way home.*
+**[1] Assessor — EN, 23 words:** Hello, Ms Vu. I'm Helen Ford, an aged care assessor. I'm here to work out what support your father needs. How's his health?
+→ *Chào chị Vũ. Tôi là Helen Ford, chuyên viên đánh giá chăm sóc người cao tuổi. Tôi đến để xem ba chị cần những hỗ trợ gì. Sức khỏe của ông thế nào?*
 
-**[3] Assessor:** That must be very worrying for you. Who currently looks after him day to day? And does he need help with things like showering, dressing, or taking his medication?
-→ *Chắc chị lo lắng lắm. Hiện tại ai là người chăm sóc ông hằng ngày? Và ông có cần giúp đỡ trong những việc như tắm rửa, mặc quần áo hoặc uống thuốc không?*
+**[2] Daughter — VI, 28 words:** Dạ, chào bà Ford. Ba tôi năm nay tám mươi sáu, bị tiểu đường, hồi tháng Bảy lại bị tai biến nhẹ. Giờ ông đi đứng yếu, lại hay quên.
+→ *Hello, Ms Ford. My father is eighty-six this year. He has diabetes, and in July he had a minor stroke. Now he's unsteady on his feet and forgetful.*
 
-**[4] Daughter:** Tôi chăm ba một mình. Tôi phải giúp ông tắm, cho ông uống thuốc đúng giờ. Tôi nghỉ việc gần một năm rồi, đêm nào cũng phải dậy hai ba lần vì ông đi tiểu. Tôi kiệt sức lắm.
-→ *I look after my father alone. I have to help him shower and make sure he takes his medicine on time. I stopped working almost a year ago, and every night I have to get up two or three times because he needs to go to the toilet. I'm exhausted.*
+**[3] Assessor — EN, 8 words:** Has his memory caused any problems at home?
+→ *Chuyện hay quên của ông có gây ra vấn đề gì ở nhà không?*
 
-**[5] Assessor:** Thank you for telling me. Carers often put their own health last. Based on what you've said, your father may be eligible for a home care package, which could provide a carer to help with showering several times a week.
-→ *Cảm ơn chị đã chia sẻ. Người chăm sóc thường đặt sức khỏe của bản thân xuống sau cùng. Dựa trên những gì chị nói, ba chị có thể đủ điều kiện nhận gói chăm sóc tại nhà, có thể cung cấp nhân viên chăm sóc đến giúp ông tắm rửa vài lần một tuần.*
+**[4] Daughter — VI, 26 words:** Có chứ bà. Có bữa ông đi ra ngoài rồi không nhớ đường về, cả nhà đi kiếm muốn điên luôn. May mà ông hàng xóm dẫn về.
+→ *Yes. One day he went out and couldn't find his way home; the whole family was frantic searching for him. Luckily a neighbour brought him back.*
 
-**[6] Daughter:** Ba tôi không nói được tiếng Anh, và ông ngại người lạ. Có người chăm sóc nói tiếng Việt không? Còn chi phí thì sao, gia đình tôi không khá giả.
-→ *My father doesn't speak English, and he's uncomfortable with strangers. Are there carers who speak Vietnamese? And what about the cost? My family isn't well-off.*
+**[5] Assessor — EN, 16 words:** That must have been frightening. Does he need help with showering, dressing or taking his medication?
+→ *Chắc chị sợ lắm. Ông có cần giúp tắm rửa, mặc quần áo hoặc uống thuốc không?*
 
-**[7] Assessor:** There are providers with Vietnamese-speaking staff, and I'll note that as a preference. The government subsidises most of the cost; any contribution depends on his income. You may also be eligible for Carer Payment yourself.
-→ *Có những nhà cung cấp dịch vụ có nhân viên nói tiếng Việt, và tôi sẽ ghi chú đó là nguyện vọng của gia đình. Chính phủ trợ cấp phần lớn chi phí; khoản đóng góp nếu có sẽ tùy thuộc vào thu nhập của ông. Bản thân chị cũng có thể đủ điều kiện nhận trợ cấp người chăm sóc.*
+**[6] Daughter — VI, 34 words:** Tôi chăm ba một mình. Tôi tắm cho ông, canh cho ông uống thuốc đúng giờ. Đêm nào tôi cũng phải dậy hai ba lần để lo cho ông. Tôi kiệt sức rồi.
+→ *I care for him alone. I shower him and make sure he takes his medicine on time. Every night I have to get up two or three times to see to him. I'm exhausted.*
 
-**[8] Daughter:** Vậy thì tốt quá. Nhưng nếu tôi bị bệnh hoặc cần nghỉ vài ngày thì ai chăm ba tôi?
-→ *That's wonderful. But if I get sick or need a few days off, who will look after my father?*
+**[7] Assessor — EN, 32 words:** Thank you for telling me. Your father may be eligible for the Support at Home program, which replaced Home Care Packages. A care worker could help him shower several times a week.
+→ *Cảm ơn chị đã chia sẻ. Ba chị có thể đủ điều kiện tham gia chương trình Hỗ trợ tại Nhà (Support at Home), chương trình đã thay thế các Gói Chăm sóc tại Nhà. Nhân viên chăm sóc có thể giúp ông tắm rửa vài lần một tuần.*
 
-**[9] Assessor:** That's what respite care is for. Your father could stay in an aged care home for a short time, up to sixty-three days a year, so you can rest. I'll also refer you to Carer Gateway for counselling and support.
-→ *Đó chính là mục đích của dịch vụ chăm sóc tạm thời. Ba chị có thể ở viện dưỡng lão một thời gian ngắn, tối đa sáu mươi ba ngày một năm, để chị được nghỉ ngơi. Tôi cũng sẽ giới thiệu chị đến Carer Gateway để được tư vấn và hỗ trợ.*
+**[8] Daughter — VI, 25 words:** Ba tôi không biết tiếng Anh, lại ngại người lạ. Có nhân viên nói tiếng Việt không bà? Còn chi phí thì sao, từ hồi tôi nghỉ làm, nhà tôi eo hẹp lắm.
+→ *My father doesn't speak English and is shy with strangers. Are there Vietnamese-speaking workers? And the cost? Since I stopped working, money's been very tight.*
+
+**[9] Assessor — EN, 33 words:** Some providers have Vietnamese-speaking staff, and I'll note that as a preference. The government pays most of the cost. Depending on his income and assets, he may contribute a little for some services.
+→ *Có những nhà cung cấp dịch vụ có nhân viên nói tiếng Việt, và tôi sẽ ghi chú đó là nguyện vọng của gia đình. Chính phủ trả phần lớn chi phí. Tùy theo thu nhập và tài sản, ông có thể phải đóng góp một ít cho một số dịch vụ.*
+
+**[10] Daughter — VI, 17 words:** Vậy thì tốt quá. Mà lỡ tôi bị bệnh hay cần nghỉ vài ngày thì ai lo cho ba tôi?
+→ *That's wonderful. But if I get sick or need a few days off, who'll look after Dad?*
+
+**[11] Assessor — EN, 27 words:** That's what respite care is for. He could have a short stay in an aged care home, up to sixty-three days a year, so you can rest.
+→ *Đó chính là mục đích của dịch vụ chăm sóc tạm thời. Ông có thể ở viện dưỡng lão một thời gian ngắn, tối đa sáu mươi ba ngày một năm, để chị được nghỉ ngơi.*
+
+**[12] Daughter — VI, 17 words:** Ông mà nghe tới chữ viện dưỡng lão là giận tôi cả tuần cho coi!
+→ *If he hears the words "nursing home", he'll sulk at me for a whole week, you'll see!*
+
+**[13] Assessor — EN, 20 words:** That's very common! We can start with just a few days. I'll also refer you to Carer Gateway for support.
+→ *Chuyện đó thường lắm! Mình có thể bắt đầu với vài ngày thôi. Tôi cũng sẽ giới thiệu chị đến Carer Gateway để được hỗ trợ.*
+
+**[14] Daughter — VI, 15 words:** Dạ, cảm ơn bà nhiều. Lâu lắm rồi mới có người hỏi han tới tôi như vậy.
+→ *Thank you so much. It's been a long time since anyone asked how I'm doing.*
+
+*End of dialogue — 14 segments · EN 159 + VI 162 = 321 words*
+
+## Dialogue 3 – Crisis payment after a house fire (Centrelink Officer)
+
+| Domain | Social Services |
+|---|---|
+| English speaker | Ms Lane, Centrelink officer (female) |
+| Vietnamese speaker | Mr Do, father of two on JobSeeker (male) |
+| Scenario | Mr Do's rented house burnt down on the weekend. He comes to Centrelink to ask what help is available for his family. |
+
+*The dialogue begins now.*
+
+**[1] Officer — EN, 25 words:** Good morning, Mr Do. I'm Rebecca Lane from Centrelink. I'm so sorry to hear about the fire at your house on Saturday. Is everyone safe?
+→ *Chào anh Đỗ. Tôi là Rebecca Lane ở Centrelink. Tôi rất tiếc khi nghe tin nhà anh bị cháy hôm thứ Bảy. Mọi người có an toàn không?*
+
+**[2] Client — VI, 26 words:** Dạ, chào bà Lane. May là không ai bị gì hết. Lửa bắt đầu từ cái máy sấy đồ lúc nửa đêm. Nhờ máy báo khói kêu nên tụi tôi chạy ra kịp.
+→ *Hello, Ms Lane. Luckily nobody was hurt. The fire started in the clothes dryer at midnight. Thanks to the smoke alarm, we got out in time.*
+
+**[3] Officer — EN, 7 words:** Thank goodness. Where are you staying now?
+→ *May quá. Bây giờ anh đang ở đâu?*
+
+**[4] Client — VI, 31 words:** Dạ, cả nhà bốn người đang ở tạm nhà đứa em họ ở Springvale. Tụi nhỏ phải ngủ dưới sàn, nhưng có chỗ che mưa che nắng là quý rồi.
+→ *The four of us are staying with my cousin in Springvale for now. The kids have to sleep on the floor, but at least we have a roof over our heads.*
+
+**[5] Officer — EN, 28 words:** You're on JobSeeker, so you may be eligible for a crisis payment. It's a one-off payment for people in severe financial hardship after an event like a fire.
+→ *Anh đang nhận trợ cấp JobSeeker, nên anh có thể đủ điều kiện nhận trợ cấp khẩn cấp. Đây là khoản trả một lần cho những người gặp khó khăn tài chính nghiêm trọng sau một sự cố như hỏa hoạn.*
+
+**[6] Client — VI, 29 words:** Dạ, khó khăn thiệt bà ơi. Tụi tôi chạy ra chỉ có bộ đồ ngủ trên người. Đồ đạc, giấy tờ cháy rụi hết, chỉ còn sót lại cái nồi cơm điện của bà xã tôi.
+→ *Things really are hard. We got out with nothing but our pyjamas. Our belongings and papers all burnt to ashes; the only thing left is my wife's rice cooker.*
+
+**[7] Officer — EN, 24 words:** Well, at least the rice cooker survived! Seriously though, you need to claim within seven days of the fire, so let's do it today.
+→ *Ít ra thì cái nồi cơm điện vẫn còn! Nói nghiêm túc thì anh cần nộp đơn trong vòng bảy ngày kể từ hôm cháy nhà, nên mình làm luôn hôm nay nhé.*
+
+**[8] Client — VI, 18 words:** Dạ được. Nhưng giấy tờ tùy thân của tôi cháy hết rồi, bằng lái cũng mất. Vậy có làm đơn được không bà?
+→ *Okay. But all my ID was burnt, and my driver's licence is gone too. Can I still apply?*
+
+**[9] Officer — EN, 27 words:** Don't worry. We can confirm your identity with your Customer Reference Number and a few questions. A letter from the fire brigade or police would also help.
+→ *Anh đừng lo. Chúng tôi có thể xác minh danh tính của anh qua số khách hàng Centrelink (CRN) và một vài câu hỏi. Có thư của sở cứu hỏa hoặc cảnh sát cũng sẽ giúp ích.*
+
+**[10] Client — VI, 17 words:** Cái đó thì dễ, bên cứu hỏa có đưa giấy cho tôi rồi. Mà khoản trợ cấp đó được bao nhiêu vậy bà?
+→ *That's easy; the fire brigade has already given me a letter. And how much is the payment?*
+
+**[11] Officer — EN, 25 words:** It's usually equal to one week of your payment. It won't fix everything, but it can help with clothes and school things for the kids.
+→ *Khoản này thường bằng một tuần tiền trợ cấp của anh. Không giải quyết được hết mọi chuyện, nhưng có thể giúp mua quần áo và đồ đi học cho các cháu.*
+
+**[12] Client — VI, 21 words:** Dạ, đỡ được chừng nào hay chừng đó. Mai mốt tụi nhỏ đi học lại mà không có đồng phục, cặp sách gì hết.
+→ *Every little bit helps. The kids are going back to school soon, and they don't have any uniforms or school bags.*
+
+**[13] Officer — EN, 26 words:** Given your circumstances, I'll also refer you to a local service for emergency relief. They can give you food vouchers and may help with school uniforms.
+→ *Với hoàn cảnh của anh, tôi cũng sẽ giới thiệu anh đến một dịch vụ địa phương để nhận cứu trợ khẩn cấp. Họ có thể cho anh phiếu thực phẩm và có thể hỗ trợ đồng phục đi học.*
+
+**[14] Client — VI, 20 words:** Thiệt tình tôi không biết cảm ơn bà sao cho đủ. Có bà giúp, tôi thấy như trút được gánh nặng.
+→ *I honestly can't thank you enough. With your help, I feel like a weight has been lifted off my shoulders.*
+
+*End of dialogue — 14 segments · EN 162 + VI 162 = 324 words*
 
 ## Traps
 
@@ -143,3 +256,12 @@ Typical scenarios: Centrelink payments (JobSeeker, Family Tax Benefit, Carer, Di
 - *tiền già* (colloquial) = Age Pension.
 - *tai biến* = stroke; *lẫn / hay quên* = dementia / forgetful.
 - *khá giả* = well-off.
+- "Support at Home" (from 1 November 2025) replaced **Home Care Packages** – say *chương trình Hỗ trợ tại Nhà (Support at Home)*; only use *Gói Chăm sóc tại Nhà* for the old program.
+- "crisis payment" = **trợ cấp khẩn cấp**; "one-off" = **trả một lần** – not *một lần nữa*.
+- "circumstances" = **hoàn cảnh**; "refer you to" = **giới thiệu (chuyển) đến** – not *nhắc đến*.
+- "fire brigade" = **sở cứu hỏa / bên cứu hỏa**.
+- *muốn xỉu* = "nearly fainted"; *hụt hơi* = "struggling to keep up"; *hoa cả mắt* = "make my head spin".
+- *muốn điên luôn* = "frantic / going out of our minds"; *giận … cho coi* = "he'll sulk, you'll see!".
+- *che mưa che nắng* = "a roof over our heads"; *đỡ được chừng nào hay chừng đó* = "every little bit helps".
+- *mai mốt* = "soon / in a few days" (not literally "tomorrow and the day after"); *bà xã* = wife; *em họ* = (younger) cousin.
+- "Seriously though" (after a joke) = *Nói nghiêm túc thì* – keep the change of tone.

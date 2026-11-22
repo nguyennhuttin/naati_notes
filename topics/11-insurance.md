@@ -52,6 +52,17 @@ Typical scenarios: car accident claim, home & contents claim (burglary, storm), 
 | internal dispute resolution | giải quyết khiếu nại nội bộ |
 | AFCA | Cơ quan Khiếu nại Tài chính Úc |
 | fraud / false claim | gian lận / khai báo sai |
+| overseas student health cover (OSHC) | bảo hiểm y tế cho du học sinh (OSHC) |
+| overseas visitor health cover (OVHC) | bảo hiểm y tế cho người nước ngoài (OVHC) |
+| upgrade / change a policy | nâng cấp / thay đổi gói bảo hiểm |
+| consultant | chuyên viên tư vấn |
+| health fund | quỹ bảo hiểm y tế |
+| continuous cover / no break (gap) in cover | bảo hiểm liên tục / không bị gián đoạn |
+| waiting periods carry over (already served) | thời gian chờ (đã trải qua) được tính tiếp |
+| certificate of insurance | giấy chứng nhận bảo hiểm |
+| visa condition (must hold health insurance) | điều kiện visa (bắt buộc có bảo hiểm y tế) |
+| recording of the sales call | bản ghi âm cuộc gọi bán hàng |
+| binding decision / determination | quyết định có tính ràng buộc |
 
 ## Key phrases (rapid drill)
 
@@ -71,65 +82,165 @@ Typical scenarios: car accident claim, home & contents claim (burglary, storm), 
 
 ## Dialogue 1 – Car accident claim (Insurance Claims Officer)
 
-> *You will hear a dialogue between an insurance claims officer and a Vietnamese-speaking driver.*
+| Domain | Insurance |
+|---|---|
+| English speaker | Ms Shaw, insurance claims officer (female) |
+| Vietnamese speaker | Mr Hoang, driver and policyholder (male) |
+| Scenario | Mr Hoang phones his car insurer to lodge a claim after another driver ran into the back of his car. |
 
-**[1] Officer:** Thank you for calling. I understand you'd like to lodge a claim for a car accident. First, is everyone safe, and was anyone injured? Then could you tell me when and where the accident happened?
-→ *Cảm ơn anh đã gọi. Tôi được biết anh muốn nộp yêu cầu bồi thường cho một vụ tai nạn xe. Trước tiên, mọi người có an toàn không, có ai bị thương không? Sau đó anh có thể cho tôi biết tai nạn xảy ra khi nào và ở đâu không?*
+*The dialogue begins now.*
 
-**[2] Driver:** Dạ, không ai bị thương nặng, chỉ có con gái tôi bị trầy tay. Chuyện xảy ra chiều thứ Sáu khoảng năm giờ, ở ngã tư gần chợ Bankstown. Tôi đang dừng đèn đỏ thì bị một xe tải nhỏ tông vào đuôi xe.
-→ *No one was seriously hurt; my daughter only got a scrape on her arm. It happened on Friday afternoon around five o'clock at the intersection near Bankstown market. I was stopped at a red light when a small truck hit the back of my car.*
+**[1] Officer — EN, 26 words:** Good morning, Mr Hoang. I'm Linda Shaw from the claims team. I understand you'd like to lodge a claim for a car accident. Was anyone hurt?
+→ *Chào anh Hoàng. Tôi là Linda Shaw ở bộ phận bồi thường. Tôi được biết anh muốn nộp yêu cầu bồi thường cho một vụ tai nạn xe. Có ai bị thương không anh?*
 
-**[3] Officer:** I'm glad no one was seriously injured. Did you exchange details with the other driver, such as their name, phone number, registration and insurance company? Did the police attend?
-→ *Tôi mừng vì không ai bị thương nặng. Anh có trao đổi thông tin với tài xế kia không, như tên, số điện thoại, biển số xe và công ty bảo hiểm của họ? Cảnh sát có đến hiện trường không?*
+**[2] Driver — VI, 24 words:** Dạ, chào bà Shaw. Không ai bị thương nặng, chỉ có con gái tôi bị trầy tay chút xíu. Hú hồn luôn bà ơi.
+→ *Hello, Ms Shaw. No one was seriously hurt; my daughter just got a small scrape on her arm. It gave us a real fright.*
 
-**[4] Driver:** Tôi có chụp hình bằng lái và biển số xe của ông ấy. Cảnh sát không tới, nhưng tối đó tôi có báo cáo, họ cho tôi một số biên bản. Ông tài xế kia cũng nhận lỗi là ông ấy nhìn điện thoại.
-→ *I took photos of his licence and number plate. The police didn't come, but I reported it that evening and they gave me an event number. The other driver also admitted it was his fault because he was looking at his phone.*
+**[3] Officer — EN, 11 words:** I'm glad you're both okay. When and where did it happen?
+→ *Tôi mừng là hai cha con anh không sao. Chuyện xảy ra khi nào và ở đâu?*
 
-**[5] Officer:** That's very helpful. Since you were not at fault and you can identify the other driver, you won't have to pay your excess, and your no-claim bonus shouldn't be affected. Can you describe the damage?
-→ *Thông tin đó rất hữu ích. Vì anh không có lỗi và có thể xác định được tài xế kia, anh sẽ không phải trả mức tự chịu, và ưu đãi không yêu cầu bồi thường của anh sẽ không bị ảnh hưởng. Anh có thể mô tả thiệt hại không?*
+**[4] Driver — VI, 23 words:** Chiều thứ Sáu, khoảng năm giờ, ở ngã tư gần chợ Bankstown. Tôi đang dừng đèn đỏ thì bị một chiếc xe tải nhỏ tông vô đuôi.
+→ *Friday afternoon, about five, at the intersection near Bankstown market. I was stopped at a red light when a small truck rear-ended me.*
 
-**[6] Driver:** Cản sau bị móp nặng, đèn sau bể, và cốp xe không đóng lại được. Tôi chạy Uber nên cần xe để đi làm. Không có xe là mỗi ngày tôi mất mấy trăm đô.
-→ *The rear bumper is badly dented, the tail light is broken, and the boot won't close. I drive for Uber, so I need the car for work. Without a car I lose several hundred dollars a day.*
+**[5] Officer — EN, 22 words:** Did you get the other driver's details, like their name, phone number and registration? And did you report it to the police?
+→ *Anh có lấy thông tin của tài xế kia không, như tên, số điện thoại và biển số xe? Và anh có báo cảnh sát không?*
 
-**[7] Officer:** Please don't drive the car if the boot or lights aren't working, as it may not be safe. Your policy includes a hire car for not-at-fault accidents for up to fourteen days while yours is being repaired.
-→ *Anh đừng lái xe nếu cốp xe hoặc đèn không hoạt động, vì có thể không an toàn. Hợp đồng bảo hiểm của anh có bao gồm xe thuê cho các vụ tai nạn không có lỗi, tối đa mười bốn ngày trong thời gian xe anh được sửa.*
+**[6] Driver — VI, 35 words:** Tôi có chụp hình bằng lái với biển số xe của ông đó. Tối đó tôi báo cảnh sát, họ cho tôi số sự việc. Ông kia cũng nhận lỗi vì mải coi điện thoại.
+→ *I took photos of his licence and number plate. I reported it to the police that night, and they gave me an event number. He also admitted fault; he was busy looking at his phone.*
 
-**[8] Driver:** Vậy tốt quá. Tôi có thể tự chọn tiệm sửa xe quen của tôi không, hay phải đem tới chỗ của công ty bảo hiểm?
-→ *That's great. Can I choose my own regular mechanic, or do I have to take it to the insurance company's repairer?*
+**[7] Officer — EN, 32 words:** That's very helpful. Because you weren't at fault and we know who the other driver is, you won't pay an excess, and your no-claim bonus is safe. How bad is the damage?
+→ *Thông tin đó rất hữu ích. Vì anh không có lỗi và chúng tôi biết tài xế kia là ai, anh sẽ không phải trả mức tự chịu, và ưu đãi không yêu cầu bồi thường của anh vẫn được giữ nguyên. Xe bị hư hại thế nào?*
 
-**[9] Officer:** You can choose your own repairer, but they'll need to provide a quote first for our assessor to approve. Using one of our panel repairers is usually faster, and the repairs come with a lifetime guarantee.
-→ *Anh có thể tự chọn thợ sửa, nhưng họ cần đưa báo giá trước để chuyên viên giám định của chúng tôi phê duyệt. Dùng một trong các xưởng sửa chữa liên kết của chúng tôi thường nhanh hơn, và việc sửa chữa được bảo hành trọn đời.*
+**[8] Driver — VI, 31 words:** Xe tôi cản sau móp nặng, đèn sau bể, cốp xe đóng không được. Tôi chạy Uber, không có xe là mỗi ngày mất mấy trăm đô.
+→ *My rear bumper is badly dented, the tail light is smashed, and the boot won't close. I drive for Uber, so without a car I lose hundreds of dollars a day.*
+
+**[9] Officer — EN, 31 words:** Please don't drive it if the lights or boot aren't working; it may not be safe. Your policy includes a hire car for up to fourteen days while yours is repaired.
+→ *Anh đừng lái xe nếu đèn hoặc cốp xe không hoạt động; như vậy có thể không an toàn. Hợp đồng bảo hiểm của anh có bao gồm xe thuê tối đa mười bốn ngày trong thời gian sửa xe.*
+
+**[10] Driver — VI, 15 words:** Có xe thuê thì đỡ quá. Tôi đem xe tới tiệm sửa quen được không bà?
+→ *A hire car would really help. Can I take my car to my usual mechanic?*
+
+**[11] Officer — EN, 28 words:** Yes, but they'll need to send us a quote first for our assessor to approve. Our panel repairers are usually faster, and their work has a lifetime guarantee.
+→ *Được, nhưng tiệm đó cần gửi báo giá cho chúng tôi trước để chuyên viên giám định của chúng tôi duyệt. Các xưởng sửa chữa liên kết của chúng tôi thường nhanh hơn, và được bảo hành trọn đời.*
+
+**[12] Driver — VI, 19 words:** Thôi, nhanh là được, tôi chọn xưởng của công ty. Chừng nào có xe thuê vậy bà?
+→ *Well, as long as it's quick, I'll use one of your repairers. When will the hire car be ready?*
+
+**[13] Officer — EN, 11 words:** I'll book it now. You can pick it up tomorrow morning.
+→ *Tôi sẽ đặt ngay bây giờ. Sáng mai anh có thể đến lấy xe.*
+
+**[14] Driver — VI, 14 words:** Dạ, cảm ơn bà nhiều. Bà làm việc lẹ quá, tôi đỡ lo hẳn.
+→ *Thank you very much. You work so quickly; I feel much less worried now.*
+
+*End of dialogue — 14 segments · EN 161 + VI 161 = 322 words*
 
 ## Dialogue 2 – Home burglary claim denied (Insurance Dispute Officer)
 
-> *You will hear a dialogue between an insurance dispute resolution officer and a Vietnamese-speaking homeowner.*
+| Domain | Insurance |
+|---|---|
+| English speaker | Mr Bennett, dispute resolution officer at the Australian Financial Complaints Authority (male) |
+| Vietnamese speaker | Mrs Duong, homeowner (female) |
+| Scenario | Mrs Duong's insurer refused most of her claim for jewellery stolen in a break-in. A dispute resolution officer calls her to discuss her complaint. |
 
-**[1] Officer:** Good morning, Mrs Duong. I'm reviewing your complaint about your home contents claim being declined. I can see the claim was for jewellery stolen during a break-in last month. Is that correct?
-→ *Chào chị Dương. Tôi đang xem xét khiếu nại của chị về việc yêu cầu bồi thường đồ đạc trong nhà bị từ chối. Tôi thấy yêu cầu bồi thường là cho số nữ trang bị đánh cắp trong một vụ đột nhập tháng trước. Đúng vậy không?*
+*The dialogue begins now.*
 
-**[2] Owner:** Dạ đúng. Trộm phá cửa sau vào nhà lúc cả nhà đi đám cưới. Họ lấy hết vàng và nữ trang, trị giá khoảng hai mươi ngàn đô. Đó là vàng cưới và quà của ba mẹ tôi cho.
-→ *Yes, that's right. Burglars broke through the back door while my whole family was at a wedding. They took all the gold and jewellery, worth about twenty thousand dollars. It was my wedding gold and gifts from my parents.*
+**[1] Officer — EN, 26 words:** Good morning, Mrs Duong. I'm Paul Bennett from AFCA. I'm looking into your complaint about the insurer declining your claim for stolen jewellery. Is that right?
+→ *Chào chị Dương. Tôi là Paul Bennett ở Cơ quan Khiếu nại Tài chính Úc (AFCA). Tôi đang xem xét khiếu nại của chị về việc công ty bảo hiểm từ chối yêu cầu bồi thường số nữ trang bị mất trộm. Đúng vậy không chị?*
 
-**[3] Officer:** I'm very sorry for your loss. According to the insurer's letter, the claim was declined because jewellery is limited to two thousand dollars unless the items are individually listed on the policy. Were they listed?
-→ *Tôi rất tiếc về mất mát của chị. Theo thư của công ty bảo hiểm, yêu cầu bồi thường bị từ chối vì nữ trang chỉ được bảo hiểm tối đa hai nghìn đô, trừ khi từng món được liệt kê riêng trong hợp đồng. Các món đó có được liệt kê không?*
+**[2] Owner — VI, 32 words:** Dạ đúng rồi ông. Tháng trước, trong lúc cả nhà đi đám cưới, trộm phá cửa sau vô lấy sạch vàng với nữ trang, khoảng hai chục ngàn đô.
+→ *Yes, that's right. Last month, while the whole family was at a wedding, burglars broke in through the back door and took all the gold and jewellery, about twenty thousand dollars' worth.*
 
-**[4] Owner:** Tôi không biết phải liệt kê. Lúc mua bảo hiểm qua điện thoại, nhân viên chỉ hỏi tổng giá trị đồ đạc trong nhà. Tôi nói khoảng tám chục ngàn, họ không hỏi gì về vàng hết.
-→ *I didn't know I had to list them. When I bought the insurance over the phone, the staff member only asked for the total value of my contents. I said about eighty thousand, and they didn't ask anything about gold.*
+**[3] Officer — EN, 9 words:** I'm so sorry. That must have been very upsetting.
+→ *Tôi rất tiếc. Chắc chị đau lòng lắm.*
 
-**[5] Officer:** That's an important point. If the insurer didn't clearly explain this limit, there may be grounds to challenge the decision. Do you have any record of that phone call or the documents they sent you?
-→ *Đó là một điểm quan trọng. Nếu công ty bảo hiểm không giải thích rõ giới hạn này, có thể có cơ sở để khiếu nại quyết định đó. Chị có lưu lại cuộc gọi đó hoặc giấy tờ họ gửi cho chị không?*
+**[4] Owner — VI, 17 words:** Buồn lắm ông ơi. Đó là vàng cưới của tôi với quà ba má cho, tiền bạc không mua lại được.
+→ *It really was. It was my wedding gold and gifts from my parents; money can't replace them.*
 
-**[6] Owner:** Tôi có email họ gửi hợp đồng, nhưng tài liệu dài mấy chục trang, toàn tiếng Anh, tôi không đọc. Tôi cũng có hình chụp nữ trang trong đám cưới và giấy mua vàng ở tiệm.
-→ *I have the email they sent with the policy, but the document is dozens of pages long and all in English, so I didn't read it. I also have photos of the jewellery from my wedding and the receipts from the gold shop.*
+**[5] Officer — EN, 24 words:** I understand. The insurer says jewellery is limited to two thousand dollars unless each item is listed on the policy. Were your pieces listed?
+→ *Tôi hiểu. Công ty bảo hiểm nói nữ trang chỉ được bảo hiểm tối đa hai ngàn đô, trừ khi từng món được liệt kê trong hợp đồng. Nữ trang của chị có được liệt kê không?*
 
-**[7] Officer:** Those photos and receipts are good proof of ownership. Insurers can request recordings of sales calls. I'll ask them for the recording and at least the two thousand dollars, which they should pay regardless.
-→ *Hình ảnh và giấy mua vàng đó là bằng chứng sở hữu tốt. Có thể yêu cầu công ty bảo hiểm cung cấp ghi âm các cuộc gọi bán hàng. Tôi sẽ yêu cầu họ cung cấp bản ghi âm và ít nhất hai nghìn đô, khoản mà dù sao họ cũng phải trả.*
+**[6] Owner — VI, 30 words:** Tôi đâu có biết. Lúc mua qua điện thoại, họ chỉ hỏi tổng giá trị đồ đạc trong nhà. Tôi nói khoảng tám chục ngàn, không ai nhắc gì tới vàng hết.
+→ *I had no idea. When I bought it over the phone, they only asked for the total value of my contents. I said about eighty thousand, and nobody mentioned gold.*
 
-**[8] Owner:** Nếu họ vẫn từ chối phần còn lại thì sao? Tôi có cần thuê luật sư không?
-→ *What if they still refuse the rest? Do I need to hire a lawyer?*
+**[7] Officer — EN, 27 words:** That's an important point. If the insurer didn't explain the limit clearly, you may have grounds to challenge the decision. Do you have any documents from them?
+→ *Đó là một điểm quan trọng. Nếu công ty bảo hiểm không giải thích rõ giới hạn đó, chị có thể có cơ sở để khiếu nại quyết định này. Chị có giấy tờ gì của họ không?*
 
-**[9] Officer:** You don't need a lawyer. Our service is free, and if we can't resolve it with the insurer, we can make a binding determination. For the future, I'd recommend listing valuable items separately when you renew your policy.
-→ *Chị không cần luật sư. Dịch vụ của chúng tôi miễn phí, và nếu không giải quyết được với công ty bảo hiểm, chúng tôi có thể đưa ra quyết định có tính ràng buộc. Về sau, tôi khuyên chị nên liệt kê riêng những món đồ có giá trị khi gia hạn hợp đồng bảo hiểm.*
+**[8] Owner — VI, 22 words:** Tôi có cái email gửi hợp đồng, mà dài mấy chục trang, toàn tiếng Anh, nên tôi không đọc.
+→ *I have the email with the policy, but it's dozens of pages long and all in English, so I didn't read it.*
+
+**[9] Officer — EN, 13 words:** That's very common. Do you have anything to prove you owned the jewellery?
+→ *Chuyện đó rất thường gặp. Chị có gì để chứng minh chị sở hữu số nữ trang đó không?*
+
+**[10] Owner — VI, 19 words:** Dạ có. Tôi có hình chụp nữ trang trong đám cưới, với giấy mua vàng ở tiệm vàng Kim Thành.
+→ *Yes. I have photos of the jewellery from my wedding, and the receipts from the Kim Thanh gold shop.*
+
+**[11] Officer — EN, 34 words:** Those are good proof of ownership. You can ask the insurer for a recording of the sales call. I'll also request it, along with at least the two thousand dollars they should pay regardless.
+→ *Đó là bằng chứng sở hữu tốt. Chị có thể yêu cầu lấy bản ghi âm cuộc gọi bán hàng từ công ty bảo hiểm. Tôi cũng sẽ yêu cầu họ cung cấp bản ghi âm đó, cùng với ít nhất hai ngàn đô mà dù sao họ cũng phải trả.*
+
+**[12] Owner — VI, 15 words:** Nếu họ vẫn không chịu trả phần còn lại thì sao ông? Tôi có cần thuê luật sư không?
+→ *What if they still won't pay the rest? Do I need to hire a lawyer?*
+
+**[13] Officer — EN, 25 words:** No, you don't need a lawyer. Our service is free, and if we can't resolve it with the insurer, we can make a binding decision.
+→ *Không, chị không cần luật sư. Dịch vụ của chúng tôi miễn phí, và nếu không giải quyết được với công ty bảo hiểm, chúng tôi có thể đưa ra quyết định có tính ràng buộc.*
+
+**[14] Owner — VI, 27 words:** Vậy thì tôi yên tâm rồi. Lần sau gia hạn, tôi sẽ liệt kê từng món cho chắc. Đúng là mất bò mới lo làm chuồng.
+→ *That puts my mind at ease. Next time I renew, I'll list every item to be safe. It's like shutting the gate after the horse has bolted.*
+
+*End of dialogue — 14 segments · EN 158 + VI 162 = 320 words*
+
+## Dialogue 3 – Switching from student cover to visitor cover (Insurance Consultant)
+
+| Domain | Insurance |
+|---|---|
+| English speaker | Ms Grant, health insurance consultant (female) |
+| Vietnamese speaker | Mr Lam, former international student (male) |
+| Scenario | Mr Lam has just finished his master's degree and is applying for a temporary graduate visa. He visits his health insurer to switch from overseas student health cover to overseas visitor health cover. |
+
+*The dialogue begins now.*
+
+**[1] Consultant — EN, 27 words:** Good afternoon, Mr Lam. I'm Olivia Grant, a consultant here at the health fund. I hear you've finished your studies. Congratulations! How can I help you today?
+→ *Chào anh Lâm. Tôi là Olivia Grant, chuyên viên tư vấn của quỹ bảo hiểm y tế. Tôi nghe nói anh đã học xong. Chúc mừng anh! Hôm nay tôi có thể giúp gì cho anh?*
+
+**[2] Client — VI, 26 words:** Dạ, chào bà Grant, cảm ơn bà. Tôi mới học xong thạc sĩ ngành điện toán, đang làm hồ sơ xin visa tốt nghiệp tạm thời để ở lại đi làm.
+→ *Hello, Ms Grant, thank you. I've just finished my master's in computing, and I'm applying for a temporary graduate visa so I can stay and work.*
+
+**[3] Consultant — EN, 8 words:** That's exciting. So your student visa ends soon?
+→ *Hay quá. Vậy visa du học của anh sắp hết hạn phải không?*
+
+**[4] Client — VI, 29 words:** Dạ, cuối tháng này là hết, bảo hiểm y tế du học sinh của tôi cũng hết luôn. Visa mới bắt buộc phải có bảo hiểm, nên tôi muốn chuyển qua bảo hiểm cho người nước ngoài.
+→ *Yes, at the end of this month, and my student health cover ends then too. The new visa requires health insurance, so I'd like to switch to visitor cover.*
+
+**[5] Consultant — EN, 25 words:** Yes, you'll need overseas visitor health cover to meet your visa conditions. And since you're not eligible for Medicare, good hospital cover is really important.
+→ *Đúng vậy, anh sẽ cần bảo hiểm y tế cho người nước ngoài (OVHC) để đáp ứng điều kiện visa. Và vì anh không được hưởng Medicare, nên có bảo hiểm nội trú tốt là rất quan trọng.*
+
+**[6] Client — VI, 33 words:** Cái đó thì tôi biết rõ lắm. Năm ngoái tôi mổ ruột thừa cấp cứu, may mà có bảo hiểm, không thì chắc phải bán nhà... à quên, bán xe đạp mới đủ trả viện phí!
+→ *I know that very well. Last year I had emergency surgery for appendicitis. Luckily I was insured, or I'd have had to sell my house... oops, my bicycle, to pay the hospital bill!*
+
+**[7] Consultant — EN, 26 words:** I'm glad it didn't come to that! Because you're staying with us with no break in cover, the waiting periods you've already served will carry over.
+→ *Mừng là chưa tới mức đó! Vì anh tiếp tục ở lại với chúng tôi và bảo hiểm không bị gián đoạn, những thời gian chờ anh đã trải qua sẽ được tính tiếp.*
+
+**[8] Client — VI, 21 words:** Vậy thì tốt quá. Còn một chuyện nữa: tôi muốn nâng cấp gói, thêm phần nha khoa. Cái răng khôn của tôi cứ hành tôi hoài.
+→ *That's great. One more thing: I'd like to upgrade my policy and add dental. My wisdom tooth keeps giving me grief.*
+
+**[9] Consultant — EN, 22 words:** Yes, you can add dental extras, but there'll be a waiting period. For wisdom teeth, it could be up to a year.
+→ *Được, anh có thể thêm phần nha khoa vào bảo hiểm dịch vụ bổ sung, nhưng sẽ có thời gian chờ. Riêng răng khôn thì có thể phải chờ tới một năm.*
+
+**[10] Client — VI, 13 words:** Trời, một năm lận hả bà? Chắc tới lúc đó nó tự rụng luôn quá!
+→ *Goodness, a whole year? It'll probably fall out on its own by then!*
+
+**[11] Consultant — EN, 22 words:** I hope not! Shall I start your visitor cover on the first of next month, the day after your student cover ends?
+→ *Mong là không! Tôi cho bảo hiểm cho người nước ngoài của anh bắt đầu từ ngày một tháng sau, tức là ngay hôm sau ngày bảo hiểm du học sinh hết hạn, được không anh?*
+
+**[12] Client — VI, 19 words:** Dạ được. Phí hằng tháng là bao nhiêu vậy bà? Tôi mới đi làm, lương chưa cao.
+→ *Yes, please. How much is the monthly premium? I've only just started working, and my pay isn't high yet.*
+
+**[13] Consultant — EN, 30 words:** For a single policy with hospital and basic extras, it's around two hundred dollars a month. I'll email you a quote and a certificate of insurance for your visa application.
+→ *Gói cho một người, gồm bảo hiểm nội trú và dịch vụ bổ sung cơ bản, khoảng hai trăm đô một tháng. Tôi sẽ email cho anh bảng báo giá và giấy chứng nhận bảo hiểm để nộp hồ sơ visa.*
+
+**[14] Client — VI, 23 words:** Dạ, vậy cũng vừa túi tiền. Cảm ơn bà đã giải thích rõ ràng, giờ tôi yên tâm làm hồ sơ rồi.
+→ *Okay, that's within my budget. Thank you for explaining everything so clearly; now I can do my visa application with peace of mind.*
+
+*End of dialogue — 14 segments · EN 160 + VI 164 = 324 words*
 
 ## Traps
 
@@ -137,6 +248,16 @@ Typical scenarios: car accident claim, home & contents claim (burglary, storm), 
 - "premium" = **phí bảo hiểm** – NOT *cao cấp*.
 - "declined" (claim) = **bị từ chối**.
 - "boot" (car) = **cốp xe**; "bumper" = **cản xe**; "number plate / rego" = **biển số xe**.
-- "binding determination" = **quyết định có tính ràng buộc**.
+- "binding determination / binding decision" = **quyết định có tính ràng buộc**.
 - *tám chục ngàn* = 80,000; *mấy chục trang* = dozens of pages (vague – keep it vague).
-- *tông / đụng* = hit / crash into.
+- *tông / đụng* = hit / crash into; "rear-ended" = **bị tông vô đuôi xe**.
+- "You can ask the insurer for a recording of the sales call" – the **client** asks: *Chị có thể yêu cầu lấy bản ghi âm cuộc gọi bán hàng từ công ty bảo hiểm* – don't flip who is requesting from whom.
+- "How bad is the damage?" = *Xe bị hư hại thế nào?* – avoid "What's the damage?", which in Australian English can also mean "How much does it cost?".
+- "gap in cover" = **bảo hiểm bị gián đoạn** – NOT "gap payment" (*khoản chênh lệch tự trả*).
+- "extras" = **dịch vụ bổ sung** (nha, mắt, vật lý trị liệu) – not *thêm*.
+- "carry over" (waiting periods) = **được tính tiếp** – not *mang theo*.
+- OSHC (students) vs OVHC (visitors, e.g. temporary graduate visa holders) – keep the acronyms.
+- *hú hồn* = "it gave us a real fright"; *hành* (răng khôn hành) = "giving me grief".
+- *mất bò mới lo làm chuồng* = "shutting the gate after the horse has bolted".
+- *bán nhà... à quên, bán xe đạp* – a self-correcting joke: keep the "oops" and both items.
+- *vừa túi tiền* = "within my budget / affordable"; *điện toán* = computing (diaspora term).
