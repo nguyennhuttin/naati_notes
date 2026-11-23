@@ -104,44 +104,72 @@ Typical scenarios: underpayment / wage theft, workplace injury, unfair dismissal
 
 *The dialogue begins now.*
 
-**[1] Inspector — EN, 28 words:** Hello, Mr Vu. I'm Laura Bennett, an inspector with the Fair Work Ombudsman. You mentioned you might be underpaid at the restaurant. How long have you worked there?
-→ *Chào anh Vũ. Tôi là Laura Bennett, thanh tra viên của Thanh tra Công bằng Lao động. Anh có nói là anh có thể đang bị trả lương thấp ở nhà hàng. Anh làm ở đó bao lâu rồi?*
+> 🔵 **Original — English** · 🟢 **Original — Vietnamese**
+>
+> 🟡 **Translation / answer key** — every italic answer line
 
-**[2] Worker — VI, 27 words:** Dạ, chào bà Bennett. Tôi làm phụ bếp ở đó gần một năm rồi, mỗi tuần sáu ngày, mỗi ngày mười tiếng, kể cả thứ Bảy, Chủ nhật.
-→ *Hello, Ms Bennett. I've been working there as a kitchen hand for nearly a year, six days a week, ten hours a day, including Saturdays and Sundays.*
+**[1] 🔵 Inspector — EN, 28 words:** Hello, Mr Vu. I'm **Laura Bennett**, an inspector with the **Fair Work Ombudsman**. You mentioned you might be **underpaid** at the restaurant. How long have you worked there?<br>
+→ *🟡Chào anh Vũ. Tôi là **Laura Bennett**, thanh tra viên của **Thanh tra Công bằng Lao động**. Anh có nói là anh có thể đang bị **trả lương thấp** ở nhà hàng. Anh làm ở đó bao lâu rồi?*
 
-**[3] Inspector — EN, 11 words:** That's long hours. And how much does your employer pay you?
-→ *Giờ làm dài quá. Vậy chủ trả anh bao nhiêu tiền?*
+---
 
-**[4] Worker — VI, 33 words:** Mười tám đô một giờ, trả tiền mặt. Không có phiếu lương gì hết. Tôi có hỏi thì ông chủ nói không thích thì nghỉ, thiếu gì người muốn làm.
-→ *Eighteen dollars an hour, in cash. There are no payslips at all. When I asked, the boss said if I didn't like it I could quit, because plenty of people want the job.*
+**[2] 🟢 Worker — VI, 27 words:** Dạ, chào bà Bennett. Tôi làm phụ bếp ở đó **gần một năm** rồi, mỗi tuần **sáu ngày**, mỗi ngày **mười tiếng**, kể cả **thứ Bảy, Chủ nhật**.<br>
+→ *🟡Hello, Ms Bennett. I've been working there as a kitchen hand for **nearly a year**, **six days a week**, **ten hours a day**, including **Saturdays and Sundays**.*
 
-**[5] Inspector — EN, 24 words:** That's well below the minimum rate under the hospitality award, and casuals should get higher penalty rates on weekends. Does he pay your superannuation?
-→ *Mức đó thấp hơn nhiều so với mức lương tối thiểu theo thỏa thuận lương ngành nhà hàng – khách sạn, và nhân viên thời vụ còn phải được hưởng lương phụ trội cao hơn vào cuối tuần. Ông chủ có đóng quỹ hưu bổng cho anh không?*
+---
 
-**[6] Worker — VI, 26 words:** Quỹ hưu bổng là gì tôi còn không biết nữa. Mà tôi đang ở Úc bằng visa du học, tôi sợ khiếu nại thì bị hủy visa.
-→ *I don't even know what superannuation is. And I'm in Australia on a student visa; I'm afraid that if I complain, my visa will be cancelled.*
+**[3] 🔵 Inspector — EN, 11 words:** That's long hours. And how much does your employer pay you?<br>
+→ *🟡Giờ làm dài quá. Vậy chủ trả anh bao nhiêu tiền?*
 
-**[7] Inspector — EN, 32 words:** That's a common worry. Under an arrangement with Home Affairs, visa holders who come to us for help usually won't have their visa cancelled, even if they've worked more hours than allowed.
-→ *Nhiều người cũng lo như vậy. Theo một thỏa thuận với Bộ Nội vụ, người có thị thực tìm đến chúng tôi nhờ giúp đỡ thường sẽ không bị hủy thị thực, ngay cả khi họ đã làm quá số giờ được phép.*
+---
 
-**[8] Worker — VI, 25 words:** Vậy thì tôi yên tâm rồi. Tôi có ghi lại giờ làm trong điện thoại, và có tin nhắn với ông chủ về lịch làm nữa.
-→ *That puts my mind at ease. I've recorded my hours on my phone, and I have text messages with the boss about my roster too.*
+**[4] 🟢 Worker — VI, 33 words:** **Mười tám đô một giờ**, **trả tiền mặt**. **Không có phiếu lương** gì hết. Tôi có hỏi thì ông chủ nói không thích thì nghỉ, thiếu gì người muốn làm.<br>
+→ *🟡**Eighteen dollars an hour**, **in cash**. There are **no payslips** at all. When I asked, the boss said if I didn't like it I could quit, because plenty of people want the job.*
 
-**[9] Inspector — EN, 24 words:** That's very helpful. It's also illegal for an employer to sack you for asking about your rights. Can you email me those records today?
-→ *Như vậy rất có ích. Ngoài ra, chủ lao động đuổi việc anh vì anh hỏi về quyền lợi của mình là phạm pháp. Hôm nay anh có thể gửi email cho tôi những ghi chép đó được không?*
+---
 
-**[10] Worker — VI, 24 words:** Dạ được. Nếu điều tra xong, tôi có được trả lại phần tiền thiếu không bà? Tính ra chắc cũng mấy chục ngàn đô.
-→ *Sure. Once the investigation is finished, will I get back the money I'm owed? It probably adds up to tens of thousands of dollars.*
+**[5] 🔵 Inspector — EN, 24 words:** That's well below the **minimum rate** under the **hospitality award**, and casuals should get higher **penalty rates on weekends**. Does he pay your **superannuation**?<br>
+→ *🟡Mức đó thấp hơn nhiều so với **mức lương tối thiểu** theo **thỏa thuận lương ngành nhà hàng – khách sạn**, và nhân viên thời vụ còn phải được hưởng **lương phụ trội cao hơn vào cuối tuần**. Ông chủ có đóng **quỹ hưu bổng** cho anh không?*
 
-**[11] Inspector — EN, 23 words:** If we find you've been underpaid, we can require your employer to back-pay you, including super. I'll open a case for you today.
-→ *Nếu chúng tôi xác định anh bị trả thiếu lương, chúng tôi có thể yêu cầu chủ trả bù cho anh, kể cả tiền hưu bổng. Hôm nay tôi sẽ mở hồ sơ cho anh.*
+---
 
-**[12] Worker — VI, 28 words:** Cảm ơn bà nhiều. Số tiền đó đủ để tôi đóng học phí học kỳ tới, khỏi phải xin tiền ba má ở nhà nữa.
-→ *Thank you so much. That money would cover my tuition fees for next semester, so I wouldn't have to ask my parents back home for money any more.*
+**[6] 🟢 Worker — VI, 26 words:** Quỹ hưu bổng là gì tôi còn không biết nữa. Mà tôi đang ở Úc bằng **visa du học**, tôi sợ khiếu nại thì **bị hủy visa**.<br>
+→ *🟡I don't even know what superannuation is. And I'm in Australia on a **student visa**; I'm afraid that if I complain, **my visa will be cancelled**.*
 
-**[13] Inspector — EN, 10 words:** Fingers crossed! I'll call you next week with an update.
-→ *Mong là vậy! Tuần sau tôi sẽ gọi cho anh để báo tình hình.*
+---
+
+**[7] 🔵 Inspector — EN, 32 words:** That's a common worry. Under an arrangement with **Home Affairs**, visa holders who come to us for help usually **won't have their visa cancelled**, even if they've **worked more hours than allowed**.<br>
+→ *🟡Nhiều người cũng lo như vậy. Theo một thỏa thuận với **Bộ Nội vụ**, người có thị thực tìm đến chúng tôi nhờ giúp đỡ thường sẽ **không bị hủy thị thực**, ngay cả khi họ đã **làm quá số giờ được phép**.*
+
+---
+
+**[8] 🟢 Worker — VI, 25 words:** Vậy thì tôi yên tâm rồi. Tôi có **ghi lại giờ làm trong điện thoại**, và có **tin nhắn với ông chủ** về lịch làm nữa.<br>
+→ *🟡That puts my mind at ease. I've **recorded my hours on my phone**, and I have **text messages with the boss** about my roster too.*
+
+---
+
+**[9] 🔵 Inspector — EN, 24 words:** That's very helpful. It's also **illegal** for an employer to sack you for asking about your rights. Can you **email me those records today**?<br>
+→ *🟡Như vậy rất có ích. Ngoài ra, chủ lao động đuổi việc anh vì anh hỏi về quyền lợi của mình là **phạm pháp**. **Hôm nay** anh có thể **gửi email** cho tôi những ghi chép đó được không?*
+
+---
+
+**[10] 🟢 Worker — VI, 24 words:** Dạ được. Nếu điều tra xong, tôi có được **trả lại phần tiền thiếu** không bà? Tính ra chắc cũng **mấy chục ngàn đô**.<br>
+→ *🟡Sure. Once the investigation is finished, will I **get back the money I'm owed**? It probably adds up to **tens of thousands of dollars**.*
+
+---
+
+**[11] 🔵 Inspector — EN, 23 words:** If we find you've been underpaid, we can require your employer to **back-pay you**, including **super**. I'll **open a case for you today**.<br>
+→ *🟡Nếu chúng tôi xác định anh bị trả thiếu lương, chúng tôi có thể yêu cầu chủ **trả bù** cho anh, kể cả **tiền hưu bổng**. **Hôm nay tôi sẽ mở hồ sơ cho anh.***
+
+---
+
+**[12] 🟢 Worker — VI, 28 words:** Cảm ơn bà nhiều. Số tiền đó đủ để tôi đóng **học phí học kỳ tới**, khỏi phải **xin tiền ba má ở nhà** nữa.<br>
+→ *🟡Thank you so much. That money would cover my **tuition fees for next semester**, so I wouldn't have to **ask my parents back home for money** any more.*
+
+---
+
+**[13] 🔵 Inspector — EN, 10 words:** Fingers crossed! I'll call you **next week** with an update.<br>
+→ *🟡Mong là vậy! **Tuần sau** tôi sẽ gọi cho anh để báo tình hình.*
 
 *End of dialogue — 13 segments · EN 152 + VI 163 = 315 words*
 
@@ -155,47 +183,77 @@ Typical scenarios: underpayment / wage theft, workplace injury, unfair dismissal
 
 *The dialogue begins now.*
 
-**[1] Case manager — EN, 26 words:** Good morning, Mrs Pham. I'm Tom Collins, the case manager handling your workers' compensation claim. How did the injury happen, and how are you feeling now?
-→ *Chào bà Phạm. Tôi là Tom Collins, nhân viên phụ trách hồ sơ bồi thường lao động của bà. Bà bị chấn thương như thế nào, và bây giờ bà thấy trong người ra sao?*
+> 🔵 **Original — English** · 🟢 **Original — Vietnamese**
+>
+> 🟡 **Translation / answer key** — every italic answer line
 
-**[2] Worker — VI, 34 words:** Dạ, chào ông Collins. Hôm đó sàn xưởng bị dầu trơn, tôi trượt té đập vai xuống đất. Giờ vai phải tôi vẫn còn đau, không giơ tay lên cao được.
-→ *Good morning, Mr Collins. That day the factory floor was slippery with oil, and I slipped and landed on my shoulder. My right shoulder still hurts, and I can't lift my arm up high.*
+**[1] 🔵 Case manager — EN, 26 words:** Good morning, Mrs Pham. I'm **Tom Collins**, the case manager handling your **workers' compensation claim**. How did the injury happen, and how are you feeling now?<br>
+→ *🟡Chào bà Phạm. Tôi là **Tom Collins**, nhân viên phụ trách **hồ sơ bồi thường lao động** của bà. Bà bị chấn thương như thế nào, và bây giờ bà thấy trong người ra sao?*
 
-**[3] Case manager — EN, 20 words:** I'm sorry to hear that. Did you report it to your supervisor that day? And have you seen a doctor?
-→ *Tôi rất tiếc. Bà có báo cho người giám sát ngay trong ngày không? Và bà đã đi khám bác sĩ chưa?*
+---
 
-**[4] Worker — VI, 33 words:** Có, tôi báo cho trưởng ca, ảnh ghi vào sổ sự cố. Hôm sau tôi đi bác sĩ, bác sĩ cho nghỉ hai tuần và giới thiệu đi chụp hình.
-→ *Yes, I told the shift leader and he wrote it in the incident register. The next day I saw a doctor, who gave me two weeks off and referred me for a scan.*
+**[2] 🟢 Worker — VI, 34 words:** Dạ, chào ông Collins. Hôm đó **sàn xưởng bị dầu trơn**, tôi trượt té đập vai xuống đất. Giờ **vai phải** tôi vẫn còn đau, **không giơ tay lên cao được**.<br>
+→ *🟡Good morning, Mr Collins. That day **the factory floor was slippery with oil**, and I slipped and landed on my shoulder. **My right shoulder still hurts**, and **I can't lift my arm up high**.*
 
-**[5] Case manager — EN, 27 words:** Good. Now that your claim has been accepted, you'll get weekly payments, and your medical costs, including physio, will be covered. Have the payments been coming through?
-→ *Tốt. Bây giờ hồ sơ của bà đã được chấp nhận, bà sẽ nhận tiền trợ cấp hằng tuần, và chi phí y tế, kể cả vật lý trị liệu, sẽ được chi trả. Bà có nhận được tiền đều không?*
+---
 
-**[6] Worker — VI, 27 words:** Tuần rồi tôi chưa nhận được đồng nào. Tôi là trụ cột trong nhà, ông xã tôi bị bệnh không đi làm được, nên tôi lo không đủ tiền trả nhà.
-→ *I didn't get a cent last week. I'm the breadwinner; my husband is ill and can't work, so I'm worried we won't have enough for the mortgage.*
+**[3] 🔵 Case manager — EN, 20 words:** I'm sorry to hear that. Did you report it to your **supervisor that day**? And have you **seen a doctor**?<br>
+→ *🟡Tôi rất tiếc. Bà có báo cho người giám sát ngay trong ngày không? Và bà đã đi khám bác sĩ chưa?*
 
-**[7] Case manager — EN, 20 words:** I'm sorry, that must be stressful. I'll check with our payments team and call you back by five o'clock today.
-→ *Tôi rất tiếc, chắc bà căng thẳng lắm. Tôi sẽ kiểm tra với bộ phận chi trả và gọi lại cho bà trước năm giờ chiều nay.*
+---
 
-**[8] Worker — VI, 20 words:** Cảm ơn ông. Bác sĩ nói chắc hai tuần nữa tôi đi làm lại được, mà làm việc nhẹ thôi.
-→ *Thank you. The doctor said I can probably go back to work in two weeks, but only on light duties.*
+**[4] 🟢 Worker — VI, 33 words:** Có, tôi báo cho **trưởng ca**, ảnh ghi vào **sổ sự cố**. **Hôm sau** tôi đi bác sĩ, bác sĩ cho **nghỉ hai tuần** và giới thiệu đi **chụp hình**.<br>
+→ *🟡Yes, I told the **shift leader** and he wrote it in the **incident register**. **The next day** I saw a doctor, who gave me **two weeks off** and referred me for a **scan**.*
 
-**[9] Case manager — EN, 24 words:** That's good news. We'll set up a return-to-work plan with your employer. Light duties could be labelling or checking stock, with no heavy lifting.
-→ *Tin đó tốt quá. Chúng tôi sẽ cùng chủ lao động của bà lập kế hoạch trở lại làm việc. Công việc nhẹ có thể là dán nhãn hoặc kiểm hàng, không phải mang vác nặng.*
+---
 
-**[10] Worker — VI, 16 words:** Tôi sợ chủ không muốn nhận tôi lại, vì tôi đâu có làm được như trước.
-→ *I'm afraid my boss won't want me back, because I can't work like I used to.*
+**[5] 🔵 Case manager — EN, 27 words:** Good. Now that your claim has been accepted, you'll get **weekly payments**, and your **medical costs**, including **physio**, will be covered. Have the payments been coming through?<br>
+→ *🟡Tốt. Bây giờ hồ sơ của bà đã được chấp nhận, bà sẽ nhận **tiền trợ cấp hằng tuần**, và **chi phí y tế**, kể cả **vật lý trị liệu**, sẽ được chi trả. Bà có nhận được tiền đều không?*
 
-**[11] Case manager — EN, 19 words:** Your employer has a legal obligation to provide suitable work. They can't dismiss you because of a work injury.
-→ *Chủ lao động có nghĩa vụ pháp lý phải bố trí công việc phù hợp cho bà. Họ không được sa thải bà vì bị chấn thương do công việc.*
+---
 
-**[12] Worker — VI, 21 words:** Nghe vậy tôi mừng quá. Ở xưởng tôi làm lâu nhất, mười hai năm rồi, ai cũng quý tôi hết.
-→ *I'm so glad to hear that. I've been at the factory the longest, twelve years now, and everyone there likes me.*
+**[6] 🟢 Worker — VI, 27 words:** **Tuần rồi tôi chưa nhận được đồng nào.** Tôi là **trụ cột trong nhà**, ông xã tôi bị bệnh không đi làm được, nên tôi lo **không đủ tiền trả nhà**.<br>
+→ *🟡**I didn't get a cent last week.** I'm the **breadwinner**; my husband is ill and can't work, so I'm worried we **won't have enough for the mortgage**.*
 
-**[13] Case manager — EN, 12 words:** Twelve years! They're lucky to have you. I'll call you this afternoon.
-→ *Mười hai năm lận! Họ có được bà là may mắn đó. Chiều nay tôi sẽ gọi cho bà.*
+---
 
-**[14] Worker — VI, 6 words:** Dạ, tôi chờ điện thoại của ông.
-→ *Okay, I'll wait for your call.*
+**[7] 🔵 Case manager — EN, 20 words:** I'm sorry, that must be stressful. I'll check with our **payments team** and call you back **by five o'clock today**.<br>
+→ *🟡Tôi rất tiếc, chắc bà căng thẳng lắm. Tôi sẽ kiểm tra với **bộ phận chi trả** và gọi lại cho bà **trước năm giờ chiều nay**.*
+
+---
+
+**[8] 🟢 Worker — VI, 20 words:** Cảm ơn ông. Bác sĩ nói chắc **hai tuần nữa** tôi đi làm lại được, mà **làm việc nhẹ** thôi.<br>
+→ *🟡Thank you. The doctor said I can probably go back to work **in two weeks**, but only on **light duties**.*
+
+---
+
+**[9] 🔵 Case manager — EN, 24 words:** That's good news. We'll set up a **return-to-work plan** with your employer. **Light duties** could be **labelling or checking stock**, with **no heavy lifting**.<br>
+→ *🟡Tin đó tốt quá. Chúng tôi sẽ cùng chủ lao động của bà lập **kế hoạch trở lại làm việc**. **Công việc nhẹ** có thể là **dán nhãn hoặc kiểm hàng**, **không phải mang vác nặng**.*
+
+---
+
+**[10] 🟢 Worker — VI, 16 words:** Tôi sợ chủ **không muốn nhận tôi lại**, vì tôi đâu có làm được như trước.<br>
+→ *🟡I'm afraid my boss **won't want me back**, because I **can't work like I used to**.*
+
+---
+
+**[11] 🔵 Case manager — EN, 19 words:** Your employer has a **legal obligation** to provide **suitable work**. They can't dismiss you because of a **work injury**.<br>
+→ *🟡Chủ lao động có **nghĩa vụ pháp lý** phải bố trí **công việc phù hợp** cho bà. Họ **không được sa thải** bà vì bị **chấn thương do công việc**.*
+
+---
+
+**[12] 🟢 Worker — VI, 21 words:** Nghe vậy tôi mừng quá. Ở xưởng tôi làm lâu nhất, **mười hai năm** rồi, ai cũng quý tôi hết.<br>
+→ *🟡I'm so glad to hear that. I've been at the factory the longest, **twelve years now**, and everyone there likes me.*
+
+---
+
+**[13] 🔵 Case manager — EN, 12 words:** **Twelve years!** They're lucky to have you. I'll call you **this afternoon**.<br>
+→ *🟡**Mười hai năm lận!** Họ có được bà là may mắn đó. **Chiều nay** tôi sẽ gọi cho bà.*
+
+---
+
+**[14] 🟢 Worker — VI, 6 words:** Dạ, tôi chờ điện thoại của ông.<br>
+→ *🟡Okay, I'll wait for your call.*
 
 *End of dialogue — 14 segments · EN 148 + VI 157 = 305 words*
 
@@ -209,44 +267,72 @@ Typical scenarios: underpayment / wage theft, workplace injury, unfair dismissal
 
 *The dialogue begins now.*
 
-**[1] Adviser — EN, 24 words:** Hi, Mrs Huynh, I'm Helen Murray, one of the careers advisers here. Thanks for coming in. What kind of work are you thinking about?
-→ *Chào bà Huỳnh, tôi là Helen Murray, một trong những cố vấn nghề nghiệp ở đây. Cảm ơn bà đã đến. Bà đang nghĩ đến loại công việc nào?*
+> 🔵 **Original — English** · 🟢 **Original — Vietnamese**
+>
+> 🟡 **Translation / answer key** — every italic answer line
 
-**[2] Client — VI, 31 words:** Dạ, chào bà Murray. Tám năm nay tôi ở nhà chăm con. Giờ đứa nhỏ nhất vô lớp Một rồi, tôi muốn đi làm lại bán thời gian, trong ngành chăm sóc người già.
-→ *Hello, Ms Murray. I've been at home with my children for eight years. Now my youngest has started Year One, I'd like to go back to work part-time, in aged care.*
+**[1] 🔵 Adviser — EN, 24 words:** Hi, Mrs Huynh, I'm **Helen Murray**, one of the careers advisers here. Thanks for coming in. What kind of work are you thinking about?<br>
+→ *🟡Chào bà Huỳnh, tôi là **Helen Murray**, một trong những cố vấn nghề nghiệp ở đây. Cảm ơn bà đã đến. Bà đang nghĩ đến loại công việc nào?*
 
-**[3] Adviser — EN, 21 words:** That's a great choice. There's a real shortage of aged care workers. Do you have any experience looking after older people?
-→ *Bà chọn vậy là rất đúng. Ngành chăm sóc người già đang rất thiếu người. Bà đã có kinh nghiệm chăm sóc người lớn tuổi chưa?*
+---
 
-**[4] Client — VI, 25 words:** Dạ có. Má chồng tôi bị lẫn, tôi chăm bà ba năm, tới khi bà mất. Tắm rửa, cho ăn, cho uống thuốc, việc gì tôi cũng làm hết.
-→ *Yes. My mother-in-law had dementia, and I looked after her for three years until she passed away. Bathing, feeding, giving her medication, I did everything.*
+**[2] 🟢 Client — VI, 31 words:** Dạ, chào bà Murray. **Tám năm nay** tôi ở nhà chăm con. Giờ đứa nhỏ nhất **vô lớp Một** rồi, tôi muốn **đi làm lại bán thời gian**, trong ngành **chăm sóc người già**.<br>
+→ *🟡Hello, Ms Murray. I've been at home with my children for **eight years**. Now my youngest has started **Year One**, I'd like to go back to work **part-time**, in **aged care**.*
 
-**[5] Adviser — EN, 28 words:** I'm sorry for your loss. That experience is really valuable. Most employers will ask for a Certificate Three in Individual Support. It usually takes six to twelve months.
-→ *Tôi rất tiếc về sự mất mát của bà. Kinh nghiệm đó thật sự rất quý. Phần lớn chủ lao động sẽ yêu cầu chứng chỉ Certificate III về Hỗ trợ Cá nhân. Khóa học thường kéo dài từ sáu đến mười hai tháng.*
+---
 
-**[6] Client — VI, 28 words:** Học lâu vậy hả bà? Tôi sợ tiếng Anh của tôi theo không kịp. Hồi ở Việt Nam tôi chỉ học hết lớp chín rồi đi may.
-→ *That long? I'm worried my English won't be good enough to keep up. Back in Vietnam I only finished Year Nine, then went to work as a seamstress.*
+**[3] 🔵 Adviser — EN, 21 words:** That's a great choice. There's a real **shortage of aged care workers**. Do you have any **experience looking after older people**?<br>
+→ *🟡Bà chọn vậy là rất đúng. Ngành chăm sóc người già đang **rất thiếu người**. Bà đã có **kinh nghiệm chăm sóc người lớn tuổi** chưa?*
 
-**[7] Adviser — EN, 23 words:** Don't worry, many colleges offer English support, and you can study part-time. There's also a work placement, so you'll learn on the job.
-→ *Bà đừng lo, nhiều trường có hỗ trợ tiếng Anh, và bà có thể học bán thời gian. Còn có thời gian thực tập nữa, nên bà sẽ được học ngay trong lúc làm.*
+---
 
-**[8] Client — VI, 26 words:** Vậy thì đỡ quá. Mà tôi phải đón con lúc ba giờ. Có chỗ nào cho làm từ chín giờ tới hai giờ rưỡi không bà?
-→ *That's a relief. But I have to pick up my kids at three. Are there jobs where I could work from nine until half past two?*
+**[4] 🟢 Client — VI, 25 words:** Dạ có. Má chồng tôi **bị lẫn**, tôi chăm bà **ba năm**, tới khi bà mất. **Tắm rửa, cho ăn, cho uống thuốc**, việc gì tôi cũng làm hết.<br>
+→ *🟡Yes. My mother-in-law **had dementia**, and I looked after her for **three years** until she passed away. **Bathing, feeding, giving her medication**, I did everything.*
 
-**[9] Adviser — EN, 30 words:** Yes, quite a few. Many aged care homes have shorter morning shifts, and home care work is often flexible. You'll also need a police check and a first aid certificate.
-→ *Có, khá nhiều. Nhiều viện dưỡng lão có ca sáng ngắn hơn, còn công việc chăm sóc tại nhà thì thường linh động giờ giấc. Bà cũng sẽ cần giấy lý lịch tư pháp và chứng chỉ sơ cứu.*
+---
 
-**[10] Client — VI, 25 words:** Dạ, mấy cái đó chắc không khó. Ông xã tôi cũng ủng hộ lắm. Ảnh nói đi làm cho vui, ở nhà hoài buồn.
-→ *Those shouldn't be hard. My husband is very supportive too. He says working will cheer me up, because staying home all the time is dull.*
+**[5] 🔵 Adviser — EN, 28 words:** I'm sorry for your loss. That experience is really valuable. Most employers will ask for a **Certificate Three in Individual Support**. It usually takes **six to twelve months**.<br>
+→ *🟡Tôi rất tiếc về sự mất mát của bà. Kinh nghiệm đó thật sự rất quý. Phần lớn chủ lao động sẽ yêu cầu chứng chỉ **Certificate III về Hỗ trợ Cá nhân**. Khóa học thường kéo dài từ **sáu đến mười hai tháng**.*
 
-**[11] Adviser — EN, 17 words:** He sounds lovely. There's an information session next Wednesday at ten. Shall I put your name down?
-→ *Ông nhà nghe dễ thương quá. Thứ Tư tới lúc mười giờ có một buổi thông tin. Tôi ghi danh cho bà nhé?*
+---
 
-**[12] Client — VI, 25 words:** Dạ, bà ghi giùm tôi. Nói thiệt, chăm hai đứa nhỏ với ông xã ở nhà còn cực hơn chăm người già nữa!
-→ *Yes, please put me down. To be honest, looking after two kids and a husband at home is harder work than caring for the elderly!*
+**[6] 🟢 Client — VI, 28 words:** **Học lâu vậy hả bà?** Tôi sợ **tiếng Anh của tôi theo không kịp**. Hồi ở Việt Nam tôi chỉ học hết **lớp chín** rồi **đi may**.<br>
+→ *🟡**That long?** I'm worried **my English won't be good enough to keep up**. Back in Vietnam I only finished **Year Nine**, then went to work as a **seamstress**.*
 
-**[13] Adviser — EN, 10 words:** Then you'll find this job easy! See you on Wednesday.
-→ *Vậy thì bà sẽ thấy công việc này nhẹ nhàng thôi! Hẹn gặp bà thứ Tư nhé.*
+---
+
+**[7] 🔵 Adviser — EN, 23 words:** Don't worry, many colleges offer **English support**, and you can study **part-time**. There's also a **work placement**, so you'll learn on the job.<br>
+→ *🟡Bà đừng lo, nhiều trường có **hỗ trợ tiếng Anh**, và bà có thể học **bán thời gian**. Còn có **thời gian thực tập** nữa, nên bà sẽ được học ngay trong lúc làm.*
+
+---
+
+**[8] 🟢 Client — VI, 26 words:** Vậy thì đỡ quá. Mà tôi phải **đón con lúc ba giờ**. Có chỗ nào cho làm **từ chín giờ tới hai giờ rưỡi** không bà?<br>
+→ *🟡That's a relief. But I have to **pick up my kids at three**. Are there jobs where I could work **from nine until half past two**?*
+
+---
+
+**[9] 🔵 Adviser — EN, 30 words:** Yes, quite a few. Many aged care homes have **shorter morning shifts**, and **home care** work is often **flexible**. You'll also need a **police check** and a **first aid certificate**.<br>
+→ *🟡Có, khá nhiều. Nhiều viện dưỡng lão có **ca sáng ngắn hơn**, còn công việc **chăm sóc tại nhà** thì thường **linh động giờ giấc**. Bà cũng sẽ cần **giấy lý lịch tư pháp** và **chứng chỉ sơ cứu**.*
+
+---
+
+**[10] 🟢 Client — VI, 25 words:** Dạ, mấy cái đó chắc không khó. Ông xã tôi cũng **ủng hộ** lắm. Ảnh nói **đi làm cho vui**, ở nhà hoài buồn.<br>
+→ *🟡Those shouldn't be hard. My husband is **very supportive** too. He says **working will cheer me up**, because staying home all the time is dull.*
+
+---
+
+**[11] 🔵 Adviser — EN, 17 words:** He sounds lovely. There's an **information session next Wednesday at ten**. Shall I **put your name down**?<br>
+→ *🟡Ông nhà nghe dễ thương quá. **Thứ Tư tới lúc mười giờ** có một buổi thông tin. Tôi **ghi danh** cho bà nhé?*
+
+---
+
+**[12] 🟢 Client — VI, 25 words:** Dạ, **bà ghi giùm tôi**. Nói thiệt, **chăm hai đứa nhỏ với ông xã ở nhà còn cực hơn chăm người già nữa**!<br>
+→ *🟡Yes, **please put me down**. To be honest, **looking after two kids and a husband at home is harder work than caring for the elderly**!*
+
+---
+
+**[13] 🔵 Adviser — EN, 10 words:** Then you'll find this job easy! See you **on Wednesday**.<br>
+→ *🟡Vậy thì bà sẽ thấy công việc này nhẹ nhàng thôi! Hẹn gặp bà **thứ Tư** nhé.*
 
 *End of dialogue — 13 segments · EN 153 + VI 160 = 313 words*
 
